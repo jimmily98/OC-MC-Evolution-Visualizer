@@ -30,25 +30,8 @@ git push -u origin main
 
 ## Run
 
-```bash
-python -m ocmc --limit 5
-```
 
-To dump JSON records from the PDF:
-
-```bash
-python -m ocmc --limit 5 --json
-```
-
-The parser keeps the raw OC form, a cleaned OC form, and the MC onset/rhyme group resolved from `data/MC_onsets_rhymes.md`.
-
-To regenerate the step-3 linkage summary:
-
-```bash
-python -m ocmc --records data/baxter_sagart_records.oc_parsed.ndjson --linkage-json data/oc_mc_linkages.json
-```
-
-To launch the step-4 dashboard (Dash, with flow-click drilldown):
+To launch the dashboard (Dash, with flow-click drilldown):
 
 ```bash
 python dash_app.py
