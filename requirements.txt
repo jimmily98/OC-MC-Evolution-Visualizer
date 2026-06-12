@@ -1,0 +1,4 @@
+pypdf>=6.0.0
+plotly>=5.24.0
+streamlit>=1.37.0
+dash>=2.17.0

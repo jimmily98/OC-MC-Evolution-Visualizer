@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.egg-info/
+.build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Test and coverage artifacts
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# VS Code
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Copyrighted source PDF
+data/Old Chinese_ A New Reconstruction - William H. Baxter,Laurent Sagar.pdf
+
+# Local workspace artifact
+chat.json

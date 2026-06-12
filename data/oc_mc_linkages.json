@@ -1,0 +1,6479 @@
+{
+  "record_count": 3889,
+  "linkages": [
+    {
+      "source_field": "oc_onset",
+      "target_field": "mc_onset_group",
+      "links": [
+        {
+          "source": "kˤ",
+          "target": "見",
+          "count": 188
+        },
+        {
+          "source": "p",
+          "target": "幫",
+          "count": 112
+        },
+        {
+          "source": "gˤ",
+          "target": "匣",
+          "count": 93
+        },
+        {
+          "source": "r",
+          "target": "來",
+          "count": 91
+        },
+        {
+          "source": "tˤ",
+          "target": "端",
+          "count": 82
+        },
+        {
+          "source": "lˤ",
+          "target": "定",
+          "count": 78
+        },
+        {
+          "source": "rˤ",
+          "target": "來",
+          "count": 78
+        },
+        {
+          "source": "mˤ",
+          "target": "明",
+          "count": 77
+        },
+        {
+          "source": "k",
+          "target": "見",
+          "count": 76
+        },
+        {
+          "source": "m",
+          "target": "明",
+          "count": 75
+        },
+        {
+          "source": "b",
+          "target": "並",
+          "count": 69
+        },
+        {
+          "source": "g",
+          "target": "群",
+          "count": 67
+        },
+        {
+          "source": "kʰˤ",
+          "target": "溪",
+          "count": 66
+        },
+        {
+          "source": "pˤ",
+          "target": "幫",
+          "count": 63
+        },
+        {
+          "source": "ts",
+          "target": "精",
+          "count": 61
+        },
+        {
+          "source": "tsˤ",
+          "target": "精",
+          "count": 61
+        },
+        {
+          "source": "t",
+          "target": "知",
+          "count": 59
+        },
+        {
+          "source": "ʔ",
+          "target": "影",
+          "count": 55
+        },
+        {
+          "source": "qʰ",
+          "target": "曉",
+          "count": 54
+        },
+        {
+          "source": "s",
+          "target": "心",
+          "count": 54
+        },
+        {
+          "source": "bˤ",
+          "target": "並",
+          "count": 52
+        },
+        {
+          "source": "ŋ",
+          "target": "疑",
+          "count": 51
+        },
+        {
+          "source": "sˤ",
+          "target": "心",
+          "count": 48
+        },
+        {
+          "source": "kʷˤ",
+          "target": "見",
+          "count": 46
+        },
+        {
+          "source": "nˤ",
+          "target": "泥",
+          "count": 45
+        },
+        {
+          "source": "ʔˤ",
+          "target": "影",
+          "count": 44
+        },
+        {
+          "source": "pʰ",
+          "target": "滂",
+          "count": 42
+        },
+        {
+          "source": "ŋˤ",
+          "target": "疑",
+          "count": 42
+        },
+        {
+          "source": "t",
+          "target": "章",
+          "count": 39
+        },
+        {
+          "source": "l̥ˤ",
+          "target": "透",
+          "count": 38
+        },
+        {
+          "source": "tsʰ",
+          "target": "清",
+          "count": 37
+        },
+        {
+          "source": "d",
+          "target": "澄",
+          "count": 36
+        },
+        {
+          "source": "q",
+          "target": "影",
+          "count": 36
+        },
+        {
+          "source": "qˤ",
+          "target": "影",
+          "count": 36
+        },
+        {
+          "source": "dzˤ",
+          "target": "從",
+          "count": 34
+        },
+        {
+          "source": "ɢʷˤ",
+          "target": "匣",
+          "count": 34
+        },
+        {
+          "source": "dˤ",
+          "target": "定",
+          "count": 32
+        },
+        {
+          "source": "kʰ",
+          "target": "溪",
+          "count": 31
+        },
+        {
+          "source": "s",
+          "target": "生",
+          "count": 29
+        },
+        {
+          "source": "tsʰˤ",
+          "target": "清",
+          "count": 29
+        },
+        {
+          "source": "qʰˤ",
+          "target": "曉",
+          "count": 28
+        },
+        {
+          "source": "l",
+          "target": "澄",
+          "count": 25
+        },
+        {
+          "source": "tʰˤ",
+          "target": "透",
+          "count": 25
+        },
+        {
+          "source": "m-kˤ",
+          "target": "匣",
+          "count": 24
+        },
+        {
+          "source": "dz",
+          "target": "從",
+          "count": 23
+        },
+        {
+          "source": "n",
+          "target": "娘",
+          "count": 22
+        },
+        {
+          "source": "ts",
+          "target": "莊",
+          "count": 22
+        },
+        {
+          "source": "n",
+          "target": "日",
+          "count": 21
+        },
+        {
+          "source": "ɢˤ",
+          "target": "匣",
+          "count": 21
+        },
+        {
+          "source": "sə.l",
+          "target": "邪",
+          "count": 19
+        },
+        {
+          "source": "qʷʰ",
+          "target": "曉",
+          "count": 18
+        },
+        {
+          "source": "qʷʰˤ",
+          "target": "曉",
+          "count": 18
+        },
+        {
+          "source": "d",
+          "target": "禪",
+          "count": 17
+        },
+        {
+          "source": "l",
+          "target": "以",
+          "count": 17
+        },
+        {
+          "source": "pʰˤ",
+          "target": "滂",
+          "count": 17
+        },
+        {
+          "source": "tsˤ",
+          "target": "莊",
+          "count": 17
+        },
+        {
+          "source": "kʷʰˤ",
+          "target": "溪",
+          "count": 16
+        },
+        {
+          "source": "l̥",
+          "target": "書",
+          "count": 15
+        },
+        {
+          "source": "m̥ˤ",
+          "target": "曉",
+          "count": 15
+        },
+        {
+          "source": "ɢ",
+          "target": "以",
+          "count": 15
+        },
+        {
+          "source": "N-kˤ",
+          "target": "匣",
+          "count": 14
+        },
+        {
+          "source": "kʷ",
+          "target": "見",
+          "count": 14
+        },
+        {
+          "source": "s-l",
+          "target": "心",
+          "count": 14
+        },
+        {
+          "source": "tsʰ",
+          "target": "初",
+          "count": 14
+        },
+        {
+          "source": "C.mˤ",
+          "target": "明",
+          "count": 12
+        },
+        {
+          "source": "gʷ",
+          "target": "群",
+          "count": 12
+        },
+        {
+          "source": "gʷˤ",
+          "target": "匣",
+          "count": 12
+        },
+        {
+          "source": "k.rˤ",
+          "target": "來",
+          "count": 12
+        },
+        {
+          "source": "m-p",
+          "target": "並",
+          "count": 12
+        },
+        {
+          "source": "tʰ",
+          "target": "徹",
+          "count": 12
+        },
+        {
+          "source": "C.m",
+          "target": "明",
+          "count": 11
+        },
+        {
+          "source": "C.qʰˤ",
+          "target": "溪",
+          "count": 11
+        },
+        {
+          "source": "C.qʷˤ",
+          "target": "見",
+          "count": 11
+        },
+        {
+          "source": "C.ŋˤ",
+          "target": "疑",
+          "count": 11
+        },
+        {
+          "source": "N-k",
+          "target": "群",
+          "count": 11
+        },
+        {
+          "source": "m̥",
+          "target": "曉",
+          "count": 11
+        },
+        {
+          "source": "sə-l",
+          "target": "邪",
+          "count": 11
+        },
+        {
+          "source": "C.qˤ",
+          "target": "見",
+          "count": 10
+        },
+        {
+          "source": "m-t",
+          "target": "澄",
+          "count": 10
+        },
+        {
+          "source": "p.r",
+          "target": "來",
+          "count": 10
+        },
+        {
+          "source": "qʷˤ",
+          "target": "影",
+          "count": 10
+        },
+        {
+          "source": "ɢʷ",
+          "target": "以",
+          "count": 10
+        },
+        {
+          "source": "C.r",
+          "target": "來",
+          "count": 9
+        },
+        {
+          "source": "C.rˤ",
+          "target": "來",
+          "count": 9
+        },
+        {
+          "source": "dz",
+          "target": "崇",
+          "count": 9
+        },
+        {
+          "source": "m-qʰ",
+          "target": "疑",
+          "count": 9
+        },
+        {
+          "source": "s-r",
+          "target": "生",
+          "count": 9
+        },
+        {
+          "source": "tˤ",
+          "target": "知",
+          "count": 9
+        },
+        {
+          "source": "C.q",
+          "target": "見",
+          "count": 8
+        },
+        {
+          "source": "C.qʰ",
+          "target": "溪",
+          "count": 8
+        },
+        {
+          "source": "C.qʷ",
+          "target": "見",
+          "count": 8
+        },
+        {
+          "source": "m-pˤ",
+          "target": "並",
+          "count": 8
+        },
+        {
+          "source": "m-qʷˤ",
+          "target": "匣",
+          "count": 8
+        },
+        {
+          "source": "m-rˤ",
+          "target": "定",
+          "count": 8
+        },
+        {
+          "source": "n̥ˤ",
+          "target": "透",
+          "count": 8
+        },
+        {
+          "source": "qʰ",
+          "target": "徹",
+          "count": 8
+        },
+        {
+          "source": "qʷ",
+          "target": "影",
+          "count": 8
+        },
+        {
+          "source": "s-ŋˤ",
+          "target": "心",
+          "count": 8
+        },
+        {
+          "source": "s.r̥ˤ",
+          "target": "清",
+          "count": 8
+        },
+        {
+          "source": "Cə.l",
+          "target": "船",
+          "count": 7
+        },
+        {
+          "source": "N-t",
+          "target": "澄",
+          "count": 7
+        },
+        {
+          "source": "dzˤ",
+          "target": "崇",
+          "count": 7
+        },
+        {
+          "source": "k-r",
+          "target": "見",
+          "count": 7
+        },
+        {
+          "source": "mə.rˤ",
+          "target": "來",
+          "count": 7
+        },
+        {
+          "source": "r̥",
+          "target": "徹",
+          "count": 7
+        },
+        {
+          "source": "s-n",
+          "target": "心",
+          "count": 7
+        },
+        {
+          "source": "s-ɢʷ",
+          "target": "邪",
+          "count": 7
+        },
+        {
+          "source": "s.r",
+          "target": "生",
+          "count": 7
+        },
+        {
+          "source": "s.ɢ",
+          "target": "邪",
+          "count": 7
+        },
+        {
+          "source": "sˤ",
+          "target": "生",
+          "count": 7
+        },
+        {
+          "source": "tsʰˤ",
+          "target": "初",
+          "count": 7
+        },
+        {
+          "source": "C.kˤ",
+          "target": "見",
+          "count": 6
+        },
+        {
+          "source": "C.ɢ",
+          "target": "群",
+          "count": 6
+        },
+        {
+          "source": "Cə.kˤ",
+          "target": "見",
+          "count": 6
+        },
+        {
+          "source": "Cə.s",
+          "target": "生",
+          "count": 6
+        },
+        {
+          "source": "kʷʰ",
+          "target": "溪",
+          "count": 6
+        },
+        {
+          "source": "lˤ",
+          "target": "澄",
+          "count": 6
+        },
+        {
+          "source": "m-k",
+          "target": "群",
+          "count": 6
+        },
+        {
+          "source": "m-pʰ",
+          "target": "並",
+          "count": 6
+        },
+        {
+          "source": "m-qˤ",
+          "target": "匣",
+          "count": 6
+        },
+        {
+          "source": "r̥ˤ",
+          "target": "透",
+          "count": 6
+        },
+        {
+          "source": "s-ɢ",
+          "target": "邪",
+          "count": 6
+        },
+        {
+          "source": "t.k",
+          "target": "章",
+          "count": 6
+        },
+        {
+          "source": "tʰ",
+          "target": "昌",
+          "count": 6
+        },
+        {
+          "source": "C.bˤ",
+          "target": "並",
+          "count": 5
+        },
+        {
+          "source": "C.lˤ",
+          "target": "定",
+          "count": 5
+        },
+        {
+          "source": "Cə.gˤ",
+          "target": "匣",
+          "count": 5
+        },
+        {
+          "source": "Cə.p",
+          "target": "幫",
+          "count": 5
+        },
+        {
+          "source": "N-p",
+          "target": "並",
+          "count": 5
+        },
+        {
+          "source": "N-qʰˤ",
+          "target": "疑",
+          "count": 5
+        },
+        {
+          "source": "N-tsˤ",
+          "target": "從",
+          "count": 5
+        },
+        {
+          "source": "l̥",
+          "target": "曉",
+          "count": 5
+        },
+        {
+          "source": "m-tˤ",
+          "target": "定",
+          "count": 5
+        },
+        {
+          "source": "m.n",
+          "target": "明",
+          "count": 5
+        },
+        {
+          "source": "mə.r",
+          "target": "來",
+          "count": 5
+        },
+        {
+          "source": "nˤ",
+          "target": "娘",
+          "count": 5
+        },
+        {
+          "source": "p.r",
+          "target": "幫",
+          "count": 5
+        },
+        {
+          "source": "s-qʰ",
+          "target": "心",
+          "count": 5
+        },
+        {
+          "source": "s-qʷ",
+          "target": "心",
+          "count": 5
+        },
+        {
+          "source": "s-t",
+          "target": "書",
+          "count": 5
+        },
+        {
+          "source": "s.tʰˤ",
+          "target": "清",
+          "count": 5
+        },
+        {
+          "source": "C.gˤ",
+          "target": "匣",
+          "count": 4
+        },
+        {
+          "source": "C.nˤ",
+          "target": "泥",
+          "count": 4
+        },
+        {
+          "source": "C.pˤ",
+          "target": "幫",
+          "count": 4
+        },
+        {
+          "source": "N-ts",
+          "target": "從",
+          "count": 4
+        },
+        {
+          "source": "N-tˤ",
+          "target": "定",
+          "count": 4
+        },
+        {
+          "source": "N-ɢʷ",
+          "target": "疑",
+          "count": 4
+        },
+        {
+          "source": "N.rˤ",
+          "target": "定",
+          "count": 4
+        },
+        {
+          "source": "g",
+          "target": "禪",
+          "count": 4
+        },
+        {
+          "source": "k.r",
+          "target": "來",
+          "count": 4
+        },
+        {
+          "source": "k.rˤ",
+          "target": "見",
+          "count": 4
+        },
+        {
+          "source": "l̥",
+          "target": "徹",
+          "count": 4
+        },
+        {
+          "source": "m-t",
+          "target": "禪",
+          "count": 4
+        },
+        {
+          "source": "m-ts",
+          "target": "從",
+          "count": 4
+        },
+        {
+          "source": "m-tˤ",
+          "target": "澄",
+          "count": 4
+        },
+        {
+          "source": "n̥",
+          "target": "徹",
+          "count": 4
+        },
+        {
+          "source": "qʰ",
+          "target": "書",
+          "count": 4
+        },
+        {
+          "source": "s-N-q",
+          "target": "邪",
+          "count": 4
+        },
+        {
+          "source": "s-lˤ",
+          "target": "心",
+          "count": 4
+        },
+        {
+          "source": "s-nˤ",
+          "target": "心",
+          "count": 4
+        },
+        {
+          "source": "s-tˤ",
+          "target": "莊",
+          "count": 4
+        },
+        {
+          "source": "s.kˤ",
+          "target": "見",
+          "count": 4
+        },
+        {
+          "source": "s.n",
+          "target": "心",
+          "count": 4
+        },
+        {
+          "source": "s.r̥",
+          "target": "初",
+          "count": 4
+        },
+        {
+          "source": "s.ɢʷ",
+          "target": "邪",
+          "count": 4
+        },
+        {
+          "source": "t.ɢ",
+          "target": "禪",
+          "count": 4
+        },
+        {
+          "source": "ŋʷˤ",
+          "target": "疑",
+          "count": 4
+        },
+        {
+          "source": "ŋ̊",
+          "target": "曉",
+          "count": 4
+        },
+        {
+          "source": "C.b",
+          "target": "並",
+          "count": 3
+        },
+        {
+          "source": "C.l",
+          "target": "澄",
+          "count": 3
+        },
+        {
+          "source": "C.sˤ",
+          "target": "心",
+          "count": 3
+        },
+        {
+          "source": "C.tˤ",
+          "target": "端",
+          "count": 3
+        },
+        {
+          "source": "Cə-l",
+          "target": "船",
+          "count": 3
+        },
+        {
+          "source": "Cə.b",
+          "target": "並",
+          "count": 3
+        },
+        {
+          "source": "Cə.k",
+          "target": "見",
+          "count": 3
+        },
+        {
+          "source": "Cə.kʷˤ",
+          "target": "見",
+          "count": 3
+        },
+        {
+          "source": "Cə.pˤ",
+          "target": "幫",
+          "count": 3
+        },
+        {
+          "source": "N-rˤ",
+          "target": "定",
+          "count": 3
+        },
+        {
+          "source": "N.r",
+          "target": "以",
+          "count": 3
+        },
+        {
+          "source": "S.t",
+          "target": "精",
+          "count": 3
+        },
+        {
+          "source": "dˤ",
+          "target": "澄",
+          "count": 3
+        },
+        {
+          "source": "k-r̥ˤ",
+          "target": "溪",
+          "count": 3
+        },
+        {
+          "source": "k-tˤ",
+          "target": "端",
+          "count": 3
+        },
+        {
+          "source": "k.m",
+          "target": "明",
+          "count": 3
+        },
+        {
+          "source": "m-qʷʰˤ",
+          "target": "疑",
+          "count": 3
+        },
+        {
+          "source": "m-r",
+          "target": "明",
+          "count": 3
+        },
+        {
+          "source": "m-tʰ",
+          "target": "澄",
+          "count": 3
+        },
+        {
+          "source": "m-ɢˤ",
+          "target": "疑",
+          "count": 3
+        },
+        {
+          "source": "m.l",
+          "target": "船",
+          "count": 3
+        },
+        {
+          "source": "mə-r",
+          "target": "來",
+          "count": 3
+        },
+        {
+          "source": "mə-tˤ",
+          "target": "端",
+          "count": 3
+        },
+        {
+          "source": "n̥",
+          "target": "曉",
+          "count": 3
+        },
+        {
+          "source": "n̥",
+          "target": "書",
+          "count": 3
+        },
+        {
+          "source": "s-d",
+          "target": "邪",
+          "count": 3
+        },
+        {
+          "source": "s-l̥ˤ",
+          "target": "初",
+          "count": 3
+        },
+        {
+          "source": "s-m-l",
+          "target": "邪",
+          "count": 3
+        },
+        {
+          "source": "s-m-t",
+          "target": "邪",
+          "count": 3
+        },
+        {
+          "source": "s-r",
+          "target": "心",
+          "count": 3
+        },
+        {
+          "source": "s-ŋ",
+          "target": "生",
+          "count": 3
+        },
+        {
+          "source": "s.l",
+          "target": "心",
+          "count": 3
+        },
+        {
+          "source": "s.t",
+          "target": "書",
+          "count": 3
+        },
+        {
+          "source": "s.ŋ",
+          "target": "心",
+          "count": 3
+        },
+        {
+          "source": "t-kʰ",
+          "target": "昌",
+          "count": 3
+        },
+        {
+          "source": "ŋʷ",
+          "target": "疑",
+          "count": 3
+        },
+        {
+          "source": "ɦʷˤ",
+          "target": "匣",
+          "count": 3
+        },
+        {
+          "source": "C-qʰ",
+          "target": "溪",
+          "count": 2
+        },
+        {
+          "source": "C-s.n",
+          "target": "心",
+          "count": 2
+        },
+        {
+          "source": "C.dzˤ",
+          "target": "崇",
+          "count": 2
+        },
+        {
+          "source": "C.g",
+          "target": "群",
+          "count": 2
+        },
+        {
+          "source": "C.gʷˤ",
+          "target": "匣",
+          "count": 2
+        },
+        {
+          "source": "C.k",
+          "target": "見",
+          "count": 2
+        },
+        {
+          "source": "C.ts",
+          "target": "精",
+          "count": 2
+        },
+        {
+          "source": "Cə-m-kˤ",
+          "target": "匣",
+          "count": 2
+        },
+        {
+          "source": "Cə.dˤ",
+          "target": "定",
+          "count": 2
+        },
+        {
+          "source": "Cə.lˤ",
+          "target": "定",
+          "count": 2
+        },
+        {
+          "source": "Cə.ts",
+          "target": "精",
+          "count": 2
+        },
+        {
+          "source": "Cə.tsˤ",
+          "target": "精",
+          "count": 2
+        },
+        {
+          "source": "N-s-tˤ",
+          "target": "從",
+          "count": 2
+        },
+        {
+          "source": "N-ɢˤ",
+          "target": "疑",
+          "count": 2
+        },
+        {
+          "source": "Nə-kʰˤ",
+          "target": "溪",
+          "count": 2
+        },
+        {
+          "source": "k",
+          "target": "章",
+          "count": 2
+        },
+        {
+          "source": "k-m̥ˤ",
+          "target": "溪",
+          "count": 2
+        },
+        {
+          "source": "k-pʰ",
+          "target": "溪",
+          "count": 2
+        },
+        {
+          "source": "k.ʔˤ",
+          "target": "見",
+          "count": 2
+        },
+        {
+          "source": "kə.nˤ",
+          "target": "泥",
+          "count": 2
+        },
+        {
+          "source": "m-gˤ",
+          "target": "匣",
+          "count": 2
+        },
+        {
+          "source": "m-k-",
+          "target": "群",
+          "count": 2
+        },
+        {
+          "source": "m-kʰˤ",
+          "target": "匣",
+          "count": 2
+        },
+        {
+          "source": "m-n",
+          "target": "明",
+          "count": 2
+        },
+        {
+          "source": "m-s-",
+          "target": "崇",
+          "count": 2
+        },
+        {
+          "source": "m-tsʰ",
+          "target": "從",
+          "count": 2
+        },
+        {
+          "source": "m-ŋˤ",
+          "target": "明",
+          "count": 2
+        },
+        {
+          "source": "m.l",
+          "target": "澄",
+          "count": 2
+        },
+        {
+          "source": "m.nˤ",
+          "target": "明",
+          "count": 2
+        },
+        {
+          "source": "m.rˤ",
+          "target": "定",
+          "count": 2
+        },
+        {
+          "source": "m.rˤ",
+          "target": "明",
+          "count": 2
+        },
+        {
+          "source": "m.sˤ",
+          "target": "心",
+          "count": 2
+        },
+        {
+          "source": "mə-l",
+          "target": "船",
+          "count": 2
+        },
+        {
+          "source": "mə-tsˤ",
+          "target": "精",
+          "count": 2
+        },
+        {
+          "source": "p.k",
+          "target": "幫",
+          "count": 2
+        },
+        {
+          "source": "p.qʰˤ",
+          "target": "滂",
+          "count": 2
+        },
+        {
+          "source": "qʰˤ",
+          "target": "徹",
+          "count": 2
+        },
+        {
+          "source": "rˤ",
+          "target": "定",
+          "count": 2
+        },
+        {
+          "source": "s-k",
+          "target": "莊",
+          "count": 2
+        },
+        {
+          "source": "s-mˤ",
+          "target": "心",
+          "count": 2
+        },
+        {
+          "source": "s-n̥",
+          "target": "清",
+          "count": 2
+        },
+        {
+          "source": "s-ts",
+          "target": "心",
+          "count": 2
+        },
+        {
+          "source": "s-tsʰˤ",
+          "target": "心",
+          "count": 2
+        },
+        {
+          "source": "s-tˤ",
+          "target": "精",
+          "count": 2
+        },
+        {
+          "source": "s.d",
+          "target": "邪",
+          "count": 2
+        },
+        {
+          "source": "s.k",
+          "target": "見",
+          "count": 2
+        },
+        {
+          "source": "s.lˤ",
+          "target": "心",
+          "count": 2
+        },
+        {
+          "source": "s.qʰ",
+          "target": "心",
+          "count": 2
+        },
+        {
+          "source": "sə-d",
+          "target": "船",
+          "count": 2
+        },
+        {
+          "source": "sə.d",
+          "target": "船",
+          "count": 2
+        },
+        {
+          "source": "sə.ɢ",
+          "target": "邪",
+          "count": 2
+        },
+        {
+          "source": "t-q",
+          "target": "章",
+          "count": 2
+        },
+        {
+          "source": "t.kʰ",
+          "target": "徹",
+          "count": 2
+        },
+        {
+          "source": "t.q",
+          "target": "章",
+          "count": 2
+        },
+        {
+          "source": "ŋ̊ˤ",
+          "target": "曉",
+          "count": 2
+        },
+        {
+          "source": "C-gʷˤ",
+          "target": "匣",
+          "count": 1
+        },
+        {
+          "source": "C.d",
+          "target": "澄",
+          "count": 1
+        },
+        {
+          "source": "C.d",
+          "target": "禪",
+          "count": 1
+        },
+        {
+          "source": "C.dzˤ",
+          "target": "從",
+          "count": 1
+        },
+        {
+          "source": "C.dˤ",
+          "target": "定",
+          "count": 1
+        },
+        {
+          "source": "C.kʷˤ",
+          "target": "見",
+          "count": 1
+        },
+        {
+          "source": "C.n",
+          "target": "日",
+          "count": 1
+        },
+        {
+          "source": "C.p",
+          "target": "幫",
+          "count": 1
+        },
+        {
+          "source": "C.qʷʰ",
+          "target": "溪",
+          "count": 1
+        },
+        {
+          "source": "C.s",
+          "target": "心",
+          "count": 1
+        },
+        {
+          "source": "C.t",
+          "target": "知",
+          "count": 1
+        },
+        {
+          "source": "C.tˤ",
+          "target": "知",
+          "count": 1
+        },
+        {
+          "source": "C.ŋ",
+          "target": "疑",
+          "count": 1
+        },
+        {
+          "source": "C.ŋʷˤ",
+          "target": "疑",
+          "count": 1
+        },
+        {
+          "source": "C.ɢʷˤ",
+          "target": "匣",
+          "count": 1
+        },
+        {
+          "source": "Cə-N-p",
+          "target": "並",
+          "count": 1
+        },
+        {
+          "source": "Cə-N-t",
+          "target": "澄",
+          "count": 1
+        },
+        {
+          "source": "Cə-kˤ",
+          "target": "見",
+          "count": 1
+        },
+        {
+          "source": "Cə-m-tˤ",
+          "target": "定",
+          "count": 1
+        },
+        {
+          "source": "Cə-m.r",
+          "target": "船",
+          "count": 1
+        },
+        {
+          "source": "Cə.bˤ",
+          "target": "並",
+          "count": 1
+        },
+        {
+          "source": "Cə.g",
+          "target": "禪",
+          "count": 1
+        },
+        {
+          "source": "Cə.g",
+          "target": "群",
+          "count": 1
+        },
+        {
+          "source": "Cə.gʷˤ",
+          "target": "匣",
+          "count": 1
+        },
+        {
+          "source": "Cə.n",
+          "target": "娘",
+          "count": 1
+        },
+        {
+          "source": "Cə.q",
+          "target": "影",
+          "count": 1
+        },
+        {
+          "source": "Cə.tˤ",
+          "target": "知",
+          "count": 1
+        },
+        {
+          "source": "Cə.tˤ",
+          "target": "端",
+          "count": 1
+        },
+        {
+          "source": "N-k.rˤ",
+          "target": "來",
+          "count": 1
+        },
+        {
+          "source": "N-kə.rˤ",
+          "target": "來",
+          "count": 1
+        },
+        {
+          "source": "N-kʰ",
+          "target": "群",
+          "count": 1
+        },
+        {
+          "source": "N-kʷ",
+          "target": "群",
+          "count": 1
+        },
+        {
+          "source": "N-pˤ",
+          "target": "並",
+          "count": 1
+        },
+        {
+          "source": "N-q",
+          "target": "以",
+          "count": 1
+        },
+        {
+          "source": "N-qʷ",
+          "target": "以",
+          "count": 1
+        },
+        {
+          "source": "N-qʷʰˤ",
+          "target": "匣",
+          "count": 1
+        },
+        {
+          "source": "N-qʷˤ",
+          "target": "匣",
+          "count": 1
+        },
+        {
+          "source": "N-qˤ",
+          "target": "匣",
+          "count": 1
+        },
+        {
+          "source": "N-t",
+          "target": "禪",
+          "count": 1
+        },
+        {
+          "source": "N-tsʰ",
+          "target": "從",
+          "count": 1
+        },
+        {
+          "source": "N-tsˤ",
+          "target": "崇",
+          "count": 1
+        },
+        {
+          "source": "N-tˤ",
+          "target": "澄",
+          "count": 1
+        },
+        {
+          "source": "N.qʷ",
+          "target": "以",
+          "count": 1
+        },
+        {
+          "source": "Nə-gˤ",
+          "target": "匣",
+          "count": 1
+        },
+        {
+          "source": "Nə-kʰ",
+          "target": "溪",
+          "count": 1
+        },
+        {
+          "source": "Nə-kʷʰˤ",
+          "target": "溪",
+          "count": 1
+        },
+        {
+          "source": "Nə-rˤ",
+          "target": "來",
+          "count": 1
+        },
+        {
+          "source": "Nə-tsʰ",
+          "target": "初",
+          "count": 1
+        },
+        {
+          "source": "Nə.tsˤ",
+          "target": "精",
+          "count": 1
+        },
+        {
+          "source": "S-kˤ",
+          "target": "精",
+          "count": 1
+        },
+        {
+          "source": "S-t",
+          "target": "精",
+          "count": 1
+        },
+        {
+          "source": "k-lˤ",
+          "target": "見",
+          "count": 1
+        },
+        {
+          "source": "k-m",
+          "target": "見",
+          "count": 1
+        },
+        {
+          "source": "k-r",
+          "target": "來",
+          "count": 1
+        },
+        {
+          "source": "k-rˤ",
+          "target": "見",
+          "count": 1
+        },
+        {
+          "source": "k-r̥",
+          "target": "溪",
+          "count": 1
+        },
+        {
+          "source": "k-ŋˤ",
+          "target": "見",
+          "count": 1
+        },
+        {
+          "source": "k-ɢʷ",
+          "target": "群",
+          "count": 1
+        },
+        {
+          "source": "k.d",
+          "target": "澄",
+          "count": 1
+        },
+        {
+          "source": "k.dz",
+          "target": "崇",
+          "count": 1
+        },
+        {
+          "source": "k.dzˤ",
+          "target": "從",
+          "count": 1
+        },
+        {
+          "source": "k.lˤ",
+          "target": "見",
+          "count": 1
+        },
+        {
+          "source": "k.mˤ",
+          "target": "見",
+          "count": 1
+        },
+        {
+          "source": "k.r",
+          "target": "見",
+          "count": 1
+        },
+        {
+          "source": "k.ŋˤ",
+          "target": "疑",
+          "count": 1
+        },
+        {
+          "source": "kə.dˤ",
+          "target": "定",
+          "count": 1
+        },
+        {
+          "source": "kə.lˤ",
+          "target": "定",
+          "count": 1
+        },
+        {
+          "source": "kə.m",
+          "target": "明",
+          "count": 1
+        },
+        {
+          "source": "l̥̥",
+          "target": "書",
+          "count": 1
+        },
+        {
+          "source": "m-b",
+          "target": "並",
+          "count": 1
+        },
+        {
+          "source": "m-dzˤ",
+          "target": "從",
+          "count": 1
+        },
+        {
+          "source": "m-dˤ",
+          "target": "定",
+          "count": 1
+        },
+        {
+          "source": "m-g",
+          "target": "群",
+          "count": 1
+        },
+        {
+          "source": "m-k-lˤ",
+          "target": "匣",
+          "count": 1
+        },
+        {
+          "source": "m-k-qʷ",
+          "target": "群",
+          "count": 1
+        },
+        {
+          "source": "m-kʷˤ",
+          "target": "匣",
+          "count": 1
+        },
+        {
+          "source": "m-pʰˤ",
+          "target": "並",
+          "count": 1
+        },
+        {
+          "source": "m-q",
+          "target": "以",
+          "count": 1
+        },
+        {
+          "source": "m-qʰˤ",
+          "target": "娘",
+          "count": 1
+        },
+        {
+          "source": "m-qʰˤ",
+          "target": "疑",
+          "count": 1
+        },
+        {
+          "source": "m-qʷʰˤ",
+          "target": "匣",
+          "count": 1
+        },
+        {
+          "source": "m-r",
+          "target": "以",
+          "count": 1
+        },
+        {
+          "source": "m-r̥",
+          "target": "徹",
+          "count": 1
+        },
+        {
+          "source": "m-r̥ˤ",
+          "target": "徹",
+          "count": 1
+        },
+        {
+          "source": "m-s-tˤ",
+          "target": "從",
+          "count": 1
+        },
+        {
+          "source": "m-sˤ",
+          "target": "清",
+          "count": 1
+        },
+        {
+          "source": "m-tsˤ",
+          "target": "崇",
+          "count": 1
+        },
+        {
+          "source": "m-tʰˤ",
+          "target": "定",
+          "count": 1
+        },
+        {
+          "source": "m-ŋ",
+          "target": "明",
+          "count": 1
+        },
+        {
+          "source": "m-ɢʷ",
+          "target": "疑",
+          "count": 1
+        },
+        {
+          "source": "m.b",
+          "target": "並",
+          "count": 1
+        },
+        {
+          "source": "m.pˤ",
+          "target": "並",
+          "count": 1
+        },
+        {
+          "source": "m.qʰˤ",
+          "target": "疑",
+          "count": 1
+        },
+        {
+          "source": "m.qʷˤ",
+          "target": "匣",
+          "count": 1
+        },
+        {
+          "source": "m.r",
+          "target": "以",
+          "count": 1
+        },
+        {
+          "source": "m.r",
+          "target": "來",
+          "count": 1
+        },
+        {
+          "source": "m.r",
+          "target": "明",
+          "count": 1
+        },
+        {
+          "source": "m.ɢ",
+          "target": "疑",
+          "count": 1
+        },
+        {
+          "source": "mə-b",
+          "target": "並",
+          "count": 1
+        },
+        {
+          "source": "mə-bˤ",
+          "target": "並",
+          "count": 1
+        },
+        {
+          "source": "mə-d",
+          "target": "澄",
+          "count": 1
+        },
+        {
+          "source": "mə-dz",
+          "target": "從",
+          "count": 1
+        },
+        {
+          "source": "mə-gˤ",
+          "target": "匣",
+          "count": 1
+        },
+        {
+          "source": "mə-kˤ",
+          "target": "見",
+          "count": 1
+        },
+        {
+          "source": "mə-l̥ˤ",
+          "target": "透",
+          "count": 1
+        },
+        {
+          "source": "mə-pʰ",
+          "target": "滂",
+          "count": 1
+        },
+        {
+          "source": "mə-pʰˤ",
+          "target": "滂",
+          "count": 1
+        },
+        {
+          "source": "mə-rˤ",
+          "target": "來",
+          "count": 1
+        },
+        {
+          "source": "mə-r̥ˤ",
+          "target": "徹",
+          "count": 1
+        },
+        {
+          "source": "mə-sˤ",
+          "target": "心",
+          "count": 1
+        },
+        {
+          "source": "mə-t",
+          "target": "知",
+          "count": 1
+        },
+        {
+          "source": "mə-tsʰ",
+          "target": "初",
+          "count": 1
+        },
+        {
+          "source": "mə-tsʰˤ",
+          "target": "清",
+          "count": 1
+        },
+        {
+          "source": "mə-tsˤ",
+          "target": "莊",
+          "count": 1
+        },
+        {
+          "source": "mə-tʰ",
+          "target": "昌",
+          "count": 1
+        },
+        {
+          "source": "mə-tˤ",
+          "target": "知",
+          "count": 1
+        },
+        {
+          "source": "mə.b",
+          "target": "並",
+          "count": 1
+        },
+        {
+          "source": "mə.k",
+          "target": "章",
+          "count": 1
+        },
+        {
+          "source": "mə.kˤ",
+          "target": "見",
+          "count": 1
+        },
+        {
+          "source": "mə.l",
+          "target": "船",
+          "count": 1
+        },
+        {
+          "source": "mə.p",
+          "target": "幫",
+          "count": 1
+        },
+        {
+          "source": "mə.tˤ",
+          "target": "端",
+          "count": 1
+        },
+        {
+          "source": "n̥ˤ",
+          "target": "曉",
+          "count": 1
+        },
+        {
+          "source": "p-k",
+          "target": "幫",
+          "count": 1
+        },
+        {
+          "source": "p.l",
+          "target": "幫",
+          "count": 1
+        },
+        {
+          "source": "p.l̥ˤ",
+          "target": "滂",
+          "count": 1
+        },
+        {
+          "source": "p.r̥",
+          "target": "滂",
+          "count": 1
+        },
+        {
+          "source": "ph",
+          "target": "滂",
+          "count": 1
+        },
+        {
+          "source": "pə.r",
+          "target": "來",
+          "count": 1
+        },
+        {
+          "source": "pə.rˤ",
+          "target": "來",
+          "count": 1
+        },
+        {
+          "source": "r̥ˤ",
+          "target": "曉",
+          "count": 1
+        },
+        {
+          "source": "s-N-qʷ",
+          "target": "邪",
+          "count": 1
+        },
+        {
+          "source": "s-N-ts",
+          "target": "邪",
+          "count": 1
+        },
+        {
+          "source": "s-N-ɢʷ",
+          "target": "從",
+          "count": 1
+        },
+        {
+          "source": "s-N.r",
+          "target": "邪",
+          "count": 1
+        },
+        {
+          "source": "s-dˤ",
+          "target": "從",
+          "count": 1
+        },
+        {
+          "source": "s-k",
+          "target": "書",
+          "count": 1
+        },
+        {
+          "source": "s-kˤ",
+          "target": "見",
+          "count": 1
+        },
+        {
+          "source": "s-l̥ˤ",
+          "target": "清",
+          "count": 1
+        },
+        {
+          "source": "s-m",
+          "target": "心",
+          "count": 1
+        },
+        {
+          "source": "s-qʰ",
+          "target": "初",
+          "count": 1
+        },
+        {
+          "source": "s-qʰ",
+          "target": "書",
+          "count": 1
+        },
+        {
+          "source": "s-qʰ",
+          "target": "生",
+          "count": 1
+        },
+        {
+          "source": "s-qʷʰ",
+          "target": "心",
+          "count": 1
+        },
+        {
+          "source": "s-qʷˤ",
+          "target": "心",
+          "count": 1
+        },
+        {
+          "source": "s-qˤ",
+          "target": "莊",
+          "count": 1
+        },
+        {
+          "source": "s-tsˤ",
+          "target": "心",
+          "count": 1
+        },
+        {
+          "source": "s-tʰ",
+          "target": "初",
+          "count": 1
+        },
+        {
+          "source": "s-tʰˤ",
+          "target": "清",
+          "count": 1
+        },
+        {
+          "source": "s-ŋ",
+          "target": "心",
+          "count": 1
+        },
+        {
+          "source": "s.b",
+          "target": "從",
+          "count": 1
+        },
+        {
+          "source": "s.kʷ",
+          "target": "見",
+          "count": 1
+        },
+        {
+          "source": "s.l̥",
+          "target": "清",
+          "count": 1
+        },
+        {
+          "source": "s.m",
+          "target": "心",
+          "count": 1
+        },
+        {
+          "source": "s.m",
+          "target": "生",
+          "count": 1
+        },
+        {
+          "source": "s.n̥ˤ",
+          "target": "清",
+          "count": 1
+        },
+        {
+          "source": "s.q",
+          "target": "精",
+          "count": 1
+        },
+        {
+          "source": "s.q",
+          "target": "莊",
+          "count": 1
+        },
+        {
+          "source": "s.qʰ",
+          "target": "清",
+          "count": 1
+        },
+        {
+          "source": "s.qʰˤ",
+          "target": "心",
+          "count": 1
+        },
+        {
+          "source": "s.qʷ",
+          "target": "心",
+          "count": 1
+        },
+        {
+          "source": "s.qˤ",
+          "target": "心",
+          "count": 1
+        },
+        {
+          "source": "s.r",
+          "target": "心",
+          "count": 1
+        },
+        {
+          "source": "s.r̥̥ˤ",
+          "target": "清",
+          "count": 1
+        },
+        {
+          "source": "s.tsʰ",
+          "target": "心",
+          "count": 1
+        },
+        {
+          "source": "s.tʰ",
+          "target": "書",
+          "count": 1
+        },
+        {
+          "source": "s.tˤ",
+          "target": "精",
+          "count": 1
+        },
+        {
+          "source": "s.ŋˤ",
+          "target": "心",
+          "count": 1
+        },
+        {
+          "source": "sw",
+          "target": "心",
+          "count": 1
+        },
+        {
+          "source": "t-k",
+          "target": "知",
+          "count": 1
+        },
+        {
+          "source": "t-kʰ",
+          "target": "徹",
+          "count": 1
+        },
+        {
+          "source": "t-l",
+          "target": "知",
+          "count": 1
+        },
+        {
+          "source": "t-l",
+          "target": "章",
+          "count": 1
+        },
+        {
+          "source": "t-lˤ",
+          "target": "端",
+          "count": 1
+        },
+        {
+          "source": "t-n",
+          "target": "知",
+          "count": 1
+        },
+        {
+          "source": "t-n",
+          "target": "章",
+          "count": 1
+        },
+        {
+          "source": "t-nˤ",
+          "target": "端",
+          "count": 1
+        },
+        {
+          "source": "t-qˤ",
+          "target": "端",
+          "count": 1
+        },
+        {
+          "source": "t.g",
+          "target": "禪",
+          "count": 1
+        },
+        {
+          "source": "tʰˤ",
+          "target": "徹",
+          "count": 1
+        },
+        {
+          "source": "ʔʷˤ",
+          "target": "影",
+          "count": 1
+        }
+      ],
+      "source_totals": [
+        {
+          "source": "kˤ",
+          "count": 188
+        },
+        {
+          "source": "p",
+          "count": 112
+        },
+        {
+          "source": "t",
+          "count": 98
+        },
+        {
+          "source": "gˤ",
+          "count": 93
+        },
+        {
+          "source": "r",
+          "count": 91
+        },
+        {
+          "source": "tˤ",
+          "count": 91
+        },
+        {
+          "source": "lˤ",
+          "count": 84
+        },
+        {
+          "source": "s",
+          "count": 83
+        },
+        {
+          "source": "ts",
+          "count": 83
+        },
+        {
+          "source": "rˤ",
+          "count": 80
+        },
+        {
+          "source": "k",
+          "count": 78
+        },
+        {
+          "source": "tsˤ",
+          "count": 78
+        },
+        {
+          "source": "mˤ",
+          "count": 77
+        },
+        {
+          "source": "m",
+          "count": 75
+        },
+        {
+          "source": "g",
+          "count": 71
+        },
+        {
+          "source": "b",
+          "count": 69
+        },
+        {
+          "source": "kʰˤ",
+          "count": 66
+        },
+        {
+          "source": "qʰ",
+          "count": 66
+        },
+        {
+          "source": "pˤ",
+          "count": 63
+        },
+        {
+          "source": "sˤ",
+          "count": 55
+        },
+        {
+          "source": "ʔ",
+          "count": 55
+        },
+        {
+          "source": "d",
+          "count": 53
+        },
+        {
+          "source": "bˤ",
+          "count": 52
+        },
+        {
+          "source": "tsʰ",
+          "count": 51
+        },
+        {
+          "source": "ŋ",
+          "count": 51
+        },
+        {
+          "source": "nˤ",
+          "count": 50
+        },
+        {
+          "source": "kʷˤ",
+          "count": 46
+        },
+        {
+          "source": "ʔˤ",
+          "count": 44
+        },
+        {
+          "source": "n",
+          "count": 43
+        },
+        {
+          "source": "l",
+          "count": 42
+        },
+        {
+          "source": "pʰ",
+          "count": 42
+        },
+        {
+          "source": "ŋˤ",
+          "count": 42
+        },
+        {
+          "source": "dzˤ",
+          "count": 41
+        },
+        {
+          "source": "l̥ˤ",
+          "count": 38
+        },
+        {
+          "source": "q",
+          "count": 36
+        },
+        {
+          "source": "qˤ",
+          "count": 36
+        },
+        {
+          "source": "tsʰˤ",
+          "count": 36
+        },
+        {
+          "source": "dˤ",
+          "count": 35
+        },
+        {
+          "source": "ɢʷˤ",
+          "count": 34
+        },
+        {
+          "source": "dz",
+          "count": 32
+        },
+        {
+          "source": "kʰ",
+          "count": 31
+        },
+        {
+          "source": "qʰˤ",
+          "count": 30
+        },
+        {
+          "source": "tʰˤ",
+          "count": 26
+        },
+        {
+          "source": "l̥",
+          "count": 24
+        },
+        {
+          "source": "m-kˤ",
+          "count": 24
+        },
+        {
+          "source": "ɢˤ",
+          "count": 21
+        },
+        {
+          "source": "sə.l",
+          "count": 19
+        },
+        {
+          "source": "qʷʰ",
+          "count": 18
+        },
+        {
+          "source": "qʷʰˤ",
+          "count": 18
+        },
+        {
+          "source": "tʰ",
+          "count": 18
+        },
+        {
+          "source": "pʰˤ",
+          "count": 17
+        },
+        {
+          "source": "k.rˤ",
+          "count": 16
+        },
+        {
+          "source": "kʷʰˤ",
+          "count": 16
+        },
+        {
+          "source": "m̥ˤ",
+          "count": 15
+        },
+        {
+          "source": "p.r",
+          "count": 15
+        },
+        {
+          "source": "ɢ",
+          "count": 15
+        },
+        {
+          "source": "N-kˤ",
+          "count": 14
+        },
+        {
+          "source": "kʷ",
+          "count": 14
+        },
+        {
+          "source": "m-t",
+          "count": 14
+        },
+        {
+          "source": "s-l",
+          "count": 14
+        },
+        {
+          "source": "C.mˤ",
+          "count": 12
+        },
+        {
+          "source": "gʷ",
+          "count": 12
+        },
+        {
+          "source": "gʷˤ",
+          "count": 12
+        },
+        {
+          "source": "m-p",
+          "count": 12
+        },
+        {
+          "source": "s-r",
+          "count": 12
+        },
+        {
+          "source": "C.m",
+          "count": 11
+        },
+        {
+          "source": "C.qʰˤ",
+          "count": 11
+        },
+        {
+          "source": "C.qʷˤ",
+          "count": 11
+        },
+        {
+          "source": "C.ŋˤ",
+          "count": 11
+        },
+        {
+          "source": "N-k",
+          "count": 11
+        },
+        {
+          "source": "m̥",
+          "count": 11
+        },
+        {
+          "source": "sə-l",
+          "count": 11
+        },
+        {
+          "source": "C.qˤ",
+          "count": 10
+        },
+        {
+          "source": "n̥",
+          "count": 10
+        },
+        {
+          "source": "qʷˤ",
+          "count": 10
+        },
+        {
+          "source": "ɢʷ",
+          "count": 10
+        },
+        {
+          "source": "C.r",
+          "count": 9
+        },
+        {
+          "source": "C.rˤ",
+          "count": 9
+        },
+        {
+          "source": "m-qʰ",
+          "count": 9
+        },
+        {
+          "source": "m-tˤ",
+          "count": 9
+        },
+        {
+          "source": "n̥ˤ",
+          "count": 9
+        },
+        {
+          "source": "C.q",
+          "count": 8
+        },
+        {
+          "source": "C.qʰ",
+          "count": 8
+        },
+        {
+          "source": "C.qʷ",
+          "count": 8
+        },
+        {
+          "source": "N-t",
+          "count": 8
+        },
+        {
+          "source": "k-r",
+          "count": 8
+        },
+        {
+          "source": "m-pˤ",
+          "count": 8
+        },
+        {
+          "source": "m-qʷˤ",
+          "count": 8
+        },
+        {
+          "source": "m-rˤ",
+          "count": 8
+        },
+        {
+          "source": "qʷ",
+          "count": 8
+        },
+        {
+          "source": "s-qʰ",
+          "count": 8
+        },
+        {
+          "source": "s-ŋˤ",
+          "count": 8
+        },
+        {
+          "source": "s.r",
+          "count": 8
+        },
+        {
+          "source": "s.r̥ˤ",
+          "count": 8
+        },
+        {
+          "source": "Cə.l",
+          "count": 7
+        },
+        {
+          "source": "mə.rˤ",
+          "count": 7
+        },
+        {
+          "source": "r̥",
+          "count": 7
+        },
+        {
+          "source": "r̥ˤ",
+          "count": 7
+        },
+        {
+          "source": "s-n",
+          "count": 7
+        },
+        {
+          "source": "s-ɢʷ",
+          "count": 7
+        },
+        {
+          "source": "s.ɢ",
+          "count": 7
+        },
+        {
+          "source": "C.kˤ",
+          "count": 6
+        },
+        {
+          "source": "C.ɢ",
+          "count": 6
+        },
+        {
+          "source": "Cə.kˤ",
+          "count": 6
+        },
+        {
+          "source": "Cə.s",
+          "count": 6
+        },
+        {
+          "source": "N-tsˤ",
+          "count": 6
+        },
+        {
+          "source": "kʷʰ",
+          "count": 6
+        },
+        {
+          "source": "m-k",
+          "count": 6
+        },
+        {
+          "source": "m-pʰ",
+          "count": 6
+        },
+        {
+          "source": "m-qˤ",
+          "count": 6
+        },
+        {
+          "source": "s-tˤ",
+          "count": 6
+        },
+        {
+          "source": "s-ɢ",
+          "count": 6
+        },
+        {
+          "source": "t.k",
+          "count": 6
+        },
+        {
+          "source": "C.bˤ",
+          "count": 5
+        },
+        {
+          "source": "C.lˤ",
+          "count": 5
+        },
+        {
+          "source": "Cə.gˤ",
+          "count": 5
+        },
+        {
+          "source": "Cə.p",
+          "count": 5
+        },
+        {
+          "source": "N-p",
+          "count": 5
+        },
+        {
+          "source": "N-qʰˤ",
+          "count": 5
+        },
+        {
+          "source": "N-tˤ",
+          "count": 5
+        },
+        {
+          "source": "k.r",
+          "count": 5
+        },
+        {
+          "source": "m.l",
+          "count": 5
+        },
+        {
+          "source": "m.n",
+          "count": 5
+        },
+        {
+          "source": "mə.r",
+          "count": 5
+        },
+        {
+          "source": "s-qʷ",
+          "count": 5
+        },
+        {
+          "source": "s-t",
+          "count": 5
+        },
+        {
+          "source": "s.tʰˤ",
+          "count": 5
+        },
+        {
+          "source": "C.gˤ",
+          "count": 4
+        },
+        {
+          "source": "C.nˤ",
+          "count": 4
+        },
+        {
+          "source": "C.pˤ",
+          "count": 4
+        },
+        {
+          "source": "C.tˤ",
+          "count": 4
+        },
+        {
+          "source": "N-ts",
+          "count": 4
+        },
+        {
+          "source": "N-ɢʷ",
+          "count": 4
+        },
+        {
+          "source": "N.rˤ",
+          "count": 4
+        },
+        {
+          "source": "m-qʷʰˤ",
+          "count": 4
+        },
+        {
+          "source": "m-r",
+          "count": 4
+        },
+        {
+          "source": "m-ts",
+          "count": 4
+        },
+        {
+          "source": "m.rˤ",
+          "count": 4
+        },
+        {
+          "source": "mə-tˤ",
+          "count": 4
+        },
+        {
+          "source": "s-N-q",
+          "count": 4
+        },
+        {
+          "source": "s-lˤ",
+          "count": 4
+        },
+        {
+          "source": "s-l̥ˤ",
+          "count": 4
+        },
+        {
+          "source": "s-nˤ",
+          "count": 4
+        },
+        {
+          "source": "s-ŋ",
+          "count": 4
+        },
+        {
+          "source": "s.kˤ",
+          "count": 4
+        },
+        {
+          "source": "s.n",
+          "count": 4
+        },
+        {
+          "source": "s.r̥",
+          "count": 4
+        },
+        {
+          "source": "s.ɢʷ",
+          "count": 4
+        },
+        {
+          "source": "t-kʰ",
+          "count": 4
+        },
+        {
+          "source": "t.ɢ",
+          "count": 4
+        },
+        {
+          "source": "ŋʷˤ",
+          "count": 4
+        },
+        {
+          "source": "ŋ̊",
+          "count": 4
+        },
+        {
+          "source": "C.b",
+          "count": 3
+        },
+        {
+          "source": "C.dzˤ",
+          "count": 3
+        },
+        {
+          "source": "C.l",
+          "count": 3
+        },
+        {
+          "source": "C.sˤ",
+          "count": 3
+        },
+        {
+          "source": "Cə-l",
+          "count": 3
+        },
+        {
+          "source": "Cə.b",
+          "count": 3
+        },
+        {
+          "source": "Cə.k",
+          "count": 3
+        },
+        {
+          "source": "Cə.kʷˤ",
+          "count": 3
+        },
+        {
+          "source": "Cə.pˤ",
+          "count": 3
+        },
+        {
+          "source": "N-rˤ",
+          "count": 3
+        },
+        {
+          "source": "N.r",
+          "count": 3
+        },
+        {
+          "source": "S.t",
+          "count": 3
+        },
+        {
+          "source": "k-r̥ˤ",
+          "count": 3
+        },
+        {
+          "source": "k-tˤ",
+          "count": 3
+        },
+        {
+          "source": "k.m",
+          "count": 3
+        },
+        {
+          "source": "m-tʰ",
+          "count": 3
+        },
+        {
+          "source": "m-ɢˤ",
+          "count": 3
+        },
+        {
+          "source": "m.r",
+          "count": 3
+        },
+        {
+          "source": "mə-r",
+          "count": 3
+        },
+        {
+          "source": "mə-tsˤ",
+          "count": 3
+        },
+        {
+          "source": "s-d",
+          "count": 3
+        },
+        {
+          "source": "s-k",
+          "count": 3
+        },
+        {
+          "source": "s-m-l",
+          "count": 3
+        },
+        {
+          "source": "s-m-t",
+          "count": 3
+        },
+        {
+          "source": "s.l",
+          "count": 3
+        },
+        {
+          "source": "s.qʰ",
+          "count": 3
+        },
+        {
+          "source": "s.t",
+          "count": 3
+        },
+        {
+          "source": "s.ŋ",
+          "count": 3
+        },
+        {
+          "source": "ŋʷ",
+          "count": 3
+        },
+        {
+          "source": "ɦʷˤ",
+          "count": 3
+        },
+        {
+          "source": "C-qʰ",
+          "count": 2
+        },
+        {
+          "source": "C-s.n",
+          "count": 2
+        },
+        {
+          "source": "C.d",
+          "count": 2
+        },
+        {
+          "source": "C.g",
+          "count": 2
+        },
+        {
+          "source": "C.gʷˤ",
+          "count": 2
+        },
+        {
+          "source": "C.k",
+          "count": 2
+        },
+        {
+          "source": "C.ts",
+          "count": 2
+        },
+        {
+          "source": "Cə-m-kˤ",
+          "count": 2
+        },
+        {
+          "source": "Cə.dˤ",
+          "count": 2
+        },
+        {
+          "source": "Cə.g",
+          "count": 2
+        },
+        {
+          "source": "Cə.lˤ",
+          "count": 2
+        },
+        {
+          "source": "Cə.ts",
+          "count": 2
+        },
+        {
+          "source": "Cə.tsˤ",
+          "count": 2
+        },
+        {
+          "source": "Cə.tˤ",
+          "count": 2
+        },
+        {
+          "source": "N-s-tˤ",
+          "count": 2
+        },
+        {
+          "source": "N-ɢˤ",
+          "count": 2
+        },
+        {
+          "source": "Nə-kʰˤ",
+          "count": 2
+        },
+        {
+          "source": "k-m̥ˤ",
+          "count": 2
+        },
+        {
+          "source": "k-pʰ",
+          "count": 2
+        },
+        {
+          "source": "k.ʔˤ",
+          "count": 2
+        },
+        {
+          "source": "kə.nˤ",
+          "count": 2
+        },
+        {
+          "source": "m-gˤ",
+          "count": 2
+        },
+        {
+          "source": "m-k-",
+          "count": 2
+        },
+        {
+          "source": "m-kʰˤ",
+          "count": 2
+        },
+        {
+          "source": "m-n",
+          "count": 2
+        },
+        {
+          "source": "m-qʰˤ",
+          "count": 2
+        },
+        {
+          "source": "m-s-",
+          "count": 2
+        },
+        {
+          "source": "m-tsʰ",
+          "count": 2
+        },
+        {
+          "source": "m-ŋˤ",
+          "count": 2
+        },
+        {
+          "source": "m.nˤ",
+          "count": 2
+        },
+        {
+          "source": "m.sˤ",
+          "count": 2
+        },
+        {
+          "source": "mə-l",
+          "count": 2
+        },
+        {
+          "source": "p.k",
+          "count": 2
+        },
+        {
+          "source": "p.qʰˤ",
+          "count": 2
+        },
+        {
+          "source": "s-mˤ",
+          "count": 2
+        },
+        {
+          "source": "s-n̥",
+          "count": 2
+        },
+        {
+          "source": "s-ts",
+          "count": 2
+        },
+        {
+          "source": "s-tsʰˤ",
+          "count": 2
+        },
+        {
+          "source": "s.d",
+          "count": 2
+        },
+        {
+          "source": "s.k",
+          "count": 2
+        },
+        {
+          "source": "s.lˤ",
+          "count": 2
+        },
+        {
+          "source": "s.m",
+          "count": 2
+        },
+        {
+          "source": "s.q",
+          "count": 2
+        },
+        {
+          "source": "sə-d",
+          "count": 2
+        },
+        {
+          "source": "sə.d",
+          "count": 2
+        },
+        {
+          "source": "sə.ɢ",
+          "count": 2
+        },
+        {
+          "source": "t-l",
+          "count": 2
+        },
+        {
+          "source": "t-n",
+          "count": 2
+        },
+        {
+          "source": "t-q",
+          "count": 2
+        },
+        {
+          "source": "t.kʰ",
+          "count": 2
+        },
+        {
+          "source": "t.q",
+          "count": 2
+        },
+        {
+          "source": "ŋ̊ˤ",
+          "count": 2
+        },
+        {
+          "source": "C-gʷˤ",
+          "count": 1
+        },
+        {
+          "source": "C.dˤ",
+          "count": 1
+        },
+        {
+          "source": "C.kʷˤ",
+          "count": 1
+        },
+        {
+          "source": "C.n",
+          "count": 1
+        },
+        {
+          "source": "C.p",
+          "count": 1
+        },
+        {
+          "source": "C.qʷʰ",
+          "count": 1
+        },
+        {
+          "source": "C.s",
+          "count": 1
+        },
+        {
+          "source": "C.t",
+          "count": 1
+        },
+        {
+          "source": "C.ŋ",
+          "count": 1
+        },
+        {
+          "source": "C.ŋʷˤ",
+          "count": 1
+        },
+        {
+          "source": "C.ɢʷˤ",
+          "count": 1
+        },
+        {
+          "source": "Cə-N-p",
+          "count": 1
+        },
+        {
+          "source": "Cə-N-t",
+          "count": 1
+        },
+        {
+          "source": "Cə-kˤ",
+          "count": 1
+        },
+        {
+          "source": "Cə-m-tˤ",
+          "count": 1
+        },
+        {
+          "source": "Cə-m.r",
+          "count": 1
+        },
+        {
+          "source": "Cə.bˤ",
+          "count": 1
+        },
+        {
+          "source": "Cə.gʷˤ",
+          "count": 1
+        },
+        {
+          "source": "Cə.n",
+          "count": 1
+        },
+        {
+          "source": "Cə.q",
+          "count": 1
+        },
+        {
+          "source": "N-k.rˤ",
+          "count": 1
+        },
+        {
+          "source": "N-kə.rˤ",
+          "count": 1
+        },
+        {
+          "source": "N-kʰ",
+          "count": 1
+        },
+        {
+          "source": "N-kʷ",
+          "count": 1
+        },
+        {
+          "source": "N-pˤ",
+          "count": 1
+        },
+        {
+          "source": "N-q",
+          "count": 1
+        },
+        {
+          "source": "N-qʷ",
+          "count": 1
+        },
+        {
+          "source": "N-qʷʰˤ",
+          "count": 1
+        },
+        {
+          "source": "N-qʷˤ",
+          "count": 1
+        },
+        {
+          "source": "N-qˤ",
+          "count": 1
+        },
+        {
+          "source": "N-tsʰ",
+          "count": 1
+        },
+        {
+          "source": "N.qʷ",
+          "count": 1
+        },
+        {
+          "source": "Nə-gˤ",
+          "count": 1
+        },
+        {
+          "source": "Nə-kʰ",
+          "count": 1
+        },
+        {
+          "source": "Nə-kʷʰˤ",
+          "count": 1
+        },
+        {
+          "source": "Nə-rˤ",
+          "count": 1
+        },
+        {
+          "source": "Nə-tsʰ",
+          "count": 1
+        },
+        {
+          "source": "Nə.tsˤ",
+          "count": 1
+        },
+        {
+          "source": "S-kˤ",
+          "count": 1
+        },
+        {
+          "source": "S-t",
+          "count": 1
+        },
+        {
+          "source": "k-lˤ",
+          "count": 1
+        },
+        {
+          "source": "k-m",
+          "count": 1
+        },
+        {
+          "source": "k-rˤ",
+          "count": 1
+        },
+        {
+          "source": "k-r̥",
+          "count": 1
+        },
+        {
+          "source": "k-ŋˤ",
+          "count": 1
+        },
+        {
+          "source": "k-ɢʷ",
+          "count": 1
+        },
+        {
+          "source": "k.d",
+          "count": 1
+        },
+        {
+          "source": "k.dz",
+          "count": 1
+        },
+        {
+          "source": "k.dzˤ",
+          "count": 1
+        },
+        {
+          "source": "k.lˤ",
+          "count": 1
+        },
+        {
+          "source": "k.mˤ",
+          "count": 1
+        },
+        {
+          "source": "k.ŋˤ",
+          "count": 1
+        },
+        {
+          "source": "kə.dˤ",
+          "count": 1
+        },
+        {
+          "source": "kə.lˤ",
+          "count": 1
+        },
+        {
+          "source": "kə.m",
+          "count": 1
+        },
+        {
+          "source": "l̥̥",
+          "count": 1
+        },
+        {
+          "source": "m-b",
+          "count": 1
+        },
+        {
+          "source": "m-dzˤ",
+          "count": 1
+        },
+        {
+          "source": "m-dˤ",
+          "count": 1
+        },
+        {
+          "source": "m-g",
+          "count": 1
+        },
+        {
+          "source": "m-k-lˤ",
+          "count": 1
+        },
+        {
+          "source": "m-k-qʷ",
+          "count": 1
+        },
+        {
+          "source": "m-kʷˤ",
+          "count": 1
+        },
+        {
+          "source": "m-pʰˤ",
+          "count": 1
+        },
+        {
+          "source": "m-q",
+          "count": 1
+        },
+        {
+          "source": "m-r̥",
+          "count": 1
+        },
+        {
+          "source": "m-r̥ˤ",
+          "count": 1
+        },
+        {
+          "source": "m-s-tˤ",
+          "count": 1
+        },
+        {
+          "source": "m-sˤ",
+          "count": 1
+        },
+        {
+          "source": "m-tsˤ",
+          "count": 1
+        },
+        {
+          "source": "m-tʰˤ",
+          "count": 1
+        },
+        {
+          "source": "m-ŋ",
+          "count": 1
+        },
+        {
+          "source": "m-ɢʷ",
+          "count": 1
+        },
+        {
+          "source": "m.b",
+          "count": 1
+        },
+        {
+          "source": "m.pˤ",
+          "count": 1
+        },
+        {
+          "source": "m.qʰˤ",
+          "count": 1
+        },
+        {
+          "source": "m.qʷˤ",
+          "count": 1
+        },
+        {
+          "source": "m.ɢ",
+          "count": 1
+        },
+        {
+          "source": "mə-b",
+          "count": 1
+        },
+        {
+          "source": "mə-bˤ",
+          "count": 1
+        },
+        {
+          "source": "mə-d",
+          "count": 1
+        },
+        {
+          "source": "mə-dz",
+          "count": 1
+        },
+        {
+          "source": "mə-gˤ",
+          "count": 1
+        },
+        {
+          "source": "mə-kˤ",
+          "count": 1
+        },
+        {
+          "source": "mə-l̥ˤ",
+          "count": 1
+        },
+        {
+          "source": "mə-pʰ",
+          "count": 1
+        },
+        {
+          "source": "mə-pʰˤ",
+          "count": 1
+        },
+        {
+          "source": "mə-rˤ",
+          "count": 1
+        },
+        {
+          "source": "mə-r̥ˤ",
+          "count": 1
+        },
+        {
+          "source": "mə-sˤ",
+          "count": 1
+        },
+        {
+          "source": "mə-t",
+          "count": 1
+        },
+        {
+          "source": "mə-tsʰ",
+          "count": 1
+        },
+        {
+          "source": "mə-tsʰˤ",
+          "count": 1
+        },
+        {
+          "source": "mə-tʰ",
+          "count": 1
+        },
+        {
+          "source": "mə.b",
+          "count": 1
+        },
+        {
+          "source": "mə.k",
+          "count": 1
+        },
+        {
+          "source": "mə.kˤ",
+          "count": 1
+        },
+        {
+          "source": "mə.l",
+          "count": 1
+        },
+        {
+          "source": "mə.p",
+          "count": 1
+        },
+        {
+          "source": "mə.tˤ",
+          "count": 1
+        },
+        {
+          "source": "p-k",
+          "count": 1
+        },
+        {
+          "source": "p.l",
+          "count": 1
+        },
+        {
+          "source": "p.l̥ˤ",
+          "count": 1
+        },
+        {
+          "source": "p.r̥",
+          "count": 1
+        },
+        {
+          "source": "ph",
+          "count": 1
+        },
+        {
+          "source": "pə.r",
+          "count": 1
+        },
+        {
+          "source": "pə.rˤ",
+          "count": 1
+        },
+        {
+          "source": "s-N-qʷ",
+          "count": 1
+        },
+        {
+          "source": "s-N-ts",
+          "count": 1
+        },
+        {
+          "source": "s-N-ɢʷ",
+          "count": 1
+        },
+        {
+          "source": "s-N.r",
+          "count": 1
+        },
+        {
+          "source": "s-dˤ",
+          "count": 1
+        },
+        {
+          "source": "s-kˤ",
+          "count": 1
+        },
+        {
+          "source": "s-m",
+          "count": 1
+        },
+        {
+          "source": "s-qʷʰ",
+          "count": 1
+        },
+        {
+          "source": "s-qʷˤ",
+          "count": 1
+        },
+        {
+          "source": "s-qˤ",
+          "count": 1
+        },
+        {
+          "source": "s-tsˤ",
+          "count": 1
+        },
+        {
+          "source": "s-tʰ",
+          "count": 1
+        },
+        {
+          "source": "s-tʰˤ",
+          "count": 1
+        },
+        {
+          "source": "s.b",
+          "count": 1
+        },
+        {
+          "source": "s.kʷ",
+          "count": 1
+        },
+        {
+          "source": "s.l̥",
+          "count": 1
+        },
+        {
+          "source": "s.n̥ˤ",
+          "count": 1
+        },
+        {
+          "source": "s.qʰˤ",
+          "count": 1
+        },
+        {
+          "source": "s.qʷ",
+          "count": 1
+        },
+        {
+          "source": "s.qˤ",
+          "count": 1
+        },
+        {
+          "source": "s.r̥̥ˤ",
+          "count": 1
+        },
+        {
+          "source": "s.tsʰ",
+          "count": 1
+        },
+        {
+          "source": "s.tʰ",
+          "count": 1
+        },
+        {
+          "source": "s.tˤ",
+          "count": 1
+        },
+        {
+          "source": "s.ŋˤ",
+          "count": 1
+        },
+        {
+          "source": "sw",
+          "count": 1
+        },
+        {
+          "source": "t-k",
+          "count": 1
+        },
+        {
+          "source": "t-lˤ",
+          "count": 1
+        },
+        {
+          "source": "t-nˤ",
+          "count": 1
+        },
+        {
+          "source": "t-qˤ",
+          "count": 1
+        },
+        {
+          "source": "t.g",
+          "count": 1
+        },
+        {
+          "source": "ʔʷˤ",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "source_field": "oc_rhyme",
+      "target_field": "mc_rhyme_group",
+      "links": [
+        {
+          "source": "aŋ",
+          "target": "陽",
+          "count": 87
+        },
+        {
+          "source": "a",
+          "target": "模",
+          "count": 86
+        },
+        {
+          "source": "aŋ",
+          "target": "唐",
+          "count": 67
+        },
+        {
+          "source": "eŋ",
+          "target": "青",
+          "count": 52
+        },
+        {
+          "source": "ra",
+          "target": "麻",
+          "count": 50
+        },
+        {
+          "source": "ə",
+          "target": "之",
+          "count": 50
+        },
+        {
+          "source": "raŋ",
+          "target": "庚",
+          "count": 47
+        },
+        {
+          "source": "oŋ",
+          "target": "東",
+          "count": 44
+        },
+        {
+          "source": "u",
+          "target": "豪",
+          "count": 41
+        },
+        {
+          "source": "ar",
+          "target": "寒",
+          "count": 40
+        },
+        {
+          "source": "ra",
+          "target": "魚",
+          "count": 40
+        },
+        {
+          "source": "an",
+          "target": "寒",
+          "count": 38
+        },
+        {
+          "source": "əm",
+          "target": "侵 (III)",
+          "count": 37
+        },
+        {
+          "source": "ak",
+          "target": "鐸",
+          "count": 35
+        },
+        {
+          "source": "aw",
+          "target": "豪",
+          "count": 33
+        },
+        {
+          "source": "raj",
+          "target": "支 (III)",
+          "count": 33
+        },
+        {
+          "source": "ro",
+          "target": "侯",
+          "count": 33
+        },
+        {
+          "source": "ro",
+          "target": "虞",
+          "count": 33
+        },
+        {
+          "source": "ru",
+          "target": "尤",
+          "count": 33
+        },
+        {
+          "source": "ə",
+          "target": "咍",
+          "count": 33
+        },
+        {
+          "source": "ij",
+          "target": "脂 (III)",
+          "count": 32
+        },
+        {
+          "source": "ij",
+          "target": "齊",
+          "count": 32
+        },
+        {
+          "source": "rak",
+          "target": "陌",
+          "count": 32
+        },
+        {
+          "source": "əŋ",
+          "target": "蒸",
+          "count": 32
+        },
+        {
+          "source": "ra",
+          "target": "虞",
+          "count": 30
+        },
+        {
+          "source": "roŋ",
+          "target": "鐘",
+          "count": 29
+        },
+        {
+          "source": "rə",
+          "target": "之",
+          "count": 29
+        },
+        {
+          "source": "ek",
+          "target": "錫",
+          "count": 28
+        },
+        {
+          "source": "un",
+          "target": "魂",
+          "count": 28
+        },
+        {
+          "source": "in",
+          "target": "真 (III)",
+          "count": 27
+        },
+        {
+          "source": "rək",
+          "target": "職",
+          "count": 26
+        },
+        {
+          "source": "rəm",
+          "target": "侵 (III)",
+          "count": 26
+        },
+        {
+          "source": "a",
+          "target": "魚",
+          "count": 25
+        },
+        {
+          "source": "en",
+          "target": "先",
+          "count": 25
+        },
+        {
+          "source": "eŋ",
+          "target": "清",
+          "count": 25
+        },
+        {
+          "source": "ok",
+          "target": "屋",
+          "count": 25
+        },
+        {
+          "source": "on",
+          "target": "桓",
+          "count": 25
+        },
+        {
+          "source": "əŋ",
+          "target": "登",
+          "count": 25
+        },
+        {
+          "source": "aj",
+          "target": "歌",
+          "count": 24
+        },
+        {
+          "source": "ar",
+          "target": "元",
+          "count": 24
+        },
+        {
+          "source": "ak",
+          "target": "模",
+          "count": 23
+        },
+        {
+          "source": "oj",
+          "target": "戈",
+          "count": 23
+        },
+        {
+          "source": "uj",
+          "target": "灰",
+          "count": 23
+        },
+        {
+          "source": "ut",
+          "target": "沒",
+          "count": 23
+        },
+        {
+          "source": "ut",
+          "target": "物",
+          "count": 23
+        },
+        {
+          "source": "əj",
+          "target": "齊",
+          "count": 23
+        },
+        {
+          "source": "e",
+          "target": "齊",
+          "count": 22
+        },
+        {
+          "source": "o",
+          "target": "虞",
+          "count": 22
+        },
+        {
+          "source": "ək",
+          "target": "職",
+          "count": 22
+        },
+        {
+          "source": "at",
+          "target": "曷",
+          "count": 21
+        },
+        {
+          "source": "ək",
+          "target": "德",
+          "count": 21
+        },
+        {
+          "source": "am",
+          "target": "談",
+          "count": 20
+        },
+        {
+          "source": "re",
+          "target": "佳",
+          "count": 20
+        },
+        {
+          "source": "at",
+          "target": "泰",
+          "count": 18
+        },
+        {
+          "source": "en",
+          "target": "仙 (IV)",
+          "count": 18
+        },
+        {
+          "source": "raŋ",
+          "target": "陽",
+          "count": 18
+        },
+        {
+          "source": "roŋ",
+          "target": "江",
+          "count": 18
+        },
+        {
+          "source": "ruk",
+          "target": "屋",
+          "count": 18
+        },
+        {
+          "source": "rər",
+          "target": "真 (III)",
+          "count": 18
+        },
+        {
+          "source": "ar",
+          "target": "桓",
+          "count": 17
+        },
+        {
+          "source": "et",
+          "target": "屑",
+          "count": 17
+        },
+        {
+          "source": "in",
+          "target": "先",
+          "count": 17
+        },
+        {
+          "source": "ran",
+          "target": "刪",
+          "count": 17
+        },
+        {
+          "source": "u",
+          "target": "尤",
+          "count": 17
+        },
+        {
+          "source": "ran",
+          "target": "仙 (III)",
+          "count": 16
+        },
+        {
+          "source": "ron",
+          "target": "仙 (III)",
+          "count": 16
+        },
+        {
+          "source": "un",
+          "target": "諄 (III)",
+          "count": 16
+        },
+        {
+          "source": "əm",
+          "target": "覃",
+          "count": 16
+        },
+        {
+          "source": "it",
+          "target": "質 (IV)",
+          "count": 15
+        },
+        {
+          "source": "om",
+          "target": "覃",
+          "count": 15
+        },
+        {
+          "source": "raw",
+          "target": "宵 (III)",
+          "count": 15
+        },
+        {
+          "source": "ru",
+          "target": "肴",
+          "count": 15
+        },
+        {
+          "source": "rəj",
+          "target": "脂 (III)",
+          "count": 15
+        },
+        {
+          "source": "ur",
+          "target": "諄 (III)",
+          "count": 15
+        },
+        {
+          "source": "ar",
+          "target": "仙 (III)",
+          "count": 14
+        },
+        {
+          "source": "ew",
+          "target": "蕭",
+          "count": 14
+        },
+        {
+          "source": "ij",
+          "target": "脂 (IV)",
+          "count": 14
+        },
+        {
+          "source": "or",
+          "target": "桓",
+          "count": 14
+        },
+        {
+          "source": "ruŋ",
+          "target": "東",
+          "count": 14
+        },
+        {
+          "source": "rən",
+          "target": "真 (III)",
+          "count": 14
+        },
+        {
+          "source": "ək",
+          "target": "屋",
+          "count": 14
+        },
+        {
+          "source": "ən",
+          "target": "真 (III)",
+          "count": 14
+        },
+        {
+          "source": "an",
+          "target": "元",
+          "count": 13
+        },
+        {
+          "source": "e",
+          "target": "支 (IV)",
+          "count": 13
+        },
+        {
+          "source": "er",
+          "target": "先",
+          "count": 13
+        },
+        {
+          "source": "it",
+          "target": "屑",
+          "count": 13
+        },
+        {
+          "source": "rek",
+          "target": "麥",
+          "count": 13
+        },
+        {
+          "source": "ret",
+          "target": "薛 (III)",
+          "count": 13
+        },
+        {
+          "source": "reŋ",
+          "target": "耕",
+          "count": 13
+        },
+        {
+          "source": "rij",
+          "target": "脂 (III)",
+          "count": 13
+        },
+        {
+          "source": "ruj",
+          "target": "脂 (III)",
+          "count": 13
+        },
+        {
+          "source": "ut",
+          "target": "術 (III)",
+          "count": 13
+        },
+        {
+          "source": "ar",
+          "target": "歌",
+          "count": 12
+        },
+        {
+          "source": "ek",
+          "target": "昔",
+          "count": 12
+        },
+        {
+          "source": "im",
+          "target": "侵 (III)",
+          "count": 12
+        },
+        {
+          "source": "it",
+          "target": "質 (III)",
+          "count": 12
+        },
+        {
+          "source": "iw",
+          "target": "蕭",
+          "count": 12
+        },
+        {
+          "source": "raw",
+          "target": "肴",
+          "count": 12
+        },
+        {
+          "source": "rok",
+          "target": "覺",
+          "count": 12
+        },
+        {
+          "source": "rəŋ",
+          "target": "蒸",
+          "count": 12
+        },
+        {
+          "source": "ər",
+          "target": "真 (III)",
+          "count": 12
+        },
+        {
+          "source": "an",
+          "target": "仙 (III)",
+          "count": 11
+        },
+        {
+          "source": "at",
+          "target": "月",
+          "count": 11
+        },
+        {
+          "source": "ep",
+          "target": "貼",
+          "count": 11
+        },
+        {
+          "source": "oŋ",
+          "target": "鐘",
+          "count": 11
+        },
+        {
+          "source": "rat",
+          "target": "薛 (III)",
+          "count": 11
+        },
+        {
+          "source": "re",
+          "target": "支 (III)",
+          "count": 11
+        },
+        {
+          "source": "uk",
+          "target": "豪",
+          "count": 11
+        },
+        {
+          "source": "ur",
+          "target": "魂",
+          "count": 11
+        },
+        {
+          "source": "ut",
+          "target": "脂 (III)",
+          "count": 11
+        },
+        {
+          "source": "ək",
+          "target": "咍",
+          "count": 11
+        },
+        {
+          "source": "əp",
+          "target": "合",
+          "count": 11
+        },
+        {
+          "source": "ər",
+          "target": "齊",
+          "count": 11
+        },
+        {
+          "source": "aj",
+          "target": "戈",
+          "count": 10
+        },
+        {
+          "source": "aj",
+          "target": "支 (III)",
+          "count": 10
+        },
+        {
+          "source": "em",
+          "target": "添",
+          "count": 10
+        },
+        {
+          "source": "in",
+          "target": "真 (IV)",
+          "count": 10
+        },
+        {
+          "source": "iwk",
+          "target": "錫",
+          "count": 10
+        },
+        {
+          "source": "oj",
+          "target": "支 (III)",
+          "count": 10
+        },
+        {
+          "source": "raj",
+          "target": "麻",
+          "count": 10
+        },
+        {
+          "source": "rək",
+          "target": "之",
+          "count": 10
+        },
+        {
+          "source": "rəp",
+          "target": "緝 (III)",
+          "count": 10
+        },
+        {
+          "source": "un",
+          "target": "文",
+          "count": 10
+        },
+        {
+          "source": "ut",
+          "target": "灰",
+          "count": 10
+        },
+        {
+          "source": "ə",
+          "target": "尤",
+          "count": 10
+        },
+        {
+          "source": "ə",
+          "target": "灰",
+          "count": 10
+        },
+        {
+          "source": "ən",
+          "target": "先",
+          "count": 10
+        },
+        {
+          "source": "əp",
+          "target": "緝 (III)",
+          "count": 10
+        },
+        {
+          "source": "am",
+          "target": "鹽 (III)",
+          "count": 9
+        },
+        {
+          "source": "an",
+          "target": "桓",
+          "count": 9
+        },
+        {
+          "source": "et",
+          "target": "祭 (IV)",
+          "count": 9
+        },
+        {
+          "source": "ew",
+          "target": "宵 (III)",
+          "count": 9
+        },
+        {
+          "source": "ew",
+          "target": "宵 (IV)",
+          "count": 9
+        },
+        {
+          "source": "ewk",
+          "target": "錫",
+          "count": 9
+        },
+        {
+          "source": "iŋ",
+          "target": "先",
+          "count": 9
+        },
+        {
+          "source": "o",
+          "target": "侯",
+          "count": 9
+        },
+        {
+          "source": "ran",
+          "target": "山",
+          "count": 9
+        },
+        {
+          "source": "ren",
+          "target": "仙 (III)",
+          "count": 9
+        },
+        {
+          "source": "reŋ",
+          "target": "清",
+          "count": 9
+        },
+        {
+          "source": "rik",
+          "target": "麥",
+          "count": 9
+        },
+        {
+          "source": "roj",
+          "target": "支 (III)",
+          "count": 9
+        },
+        {
+          "source": "rok",
+          "target": "燭",
+          "count": 9
+        },
+        {
+          "source": "ruj",
+          "target": "皆",
+          "count": 9
+        },
+        {
+          "source": "uk",
+          "target": "沃",
+          "count": 9
+        },
+        {
+          "source": "ur",
+          "target": "文",
+          "count": 9
+        },
+        {
+          "source": "əj",
+          "target": "咍",
+          "count": 9
+        },
+        {
+          "source": "ak",
+          "target": "藥",
+          "count": 8
+        },
+        {
+          "source": "at",
+          "target": "祭 (III)",
+          "count": 8
+        },
+        {
+          "source": "at",
+          "target": "薛 (III)",
+          "count": 8
+        },
+        {
+          "source": "en",
+          "target": "仙 (III)",
+          "count": 8
+        },
+        {
+          "source": "im",
+          "target": "添",
+          "count": 8
+        },
+        {
+          "source": "ok",
+          "target": "燭",
+          "count": 8
+        },
+        {
+          "source": "op",
+          "target": "泰",
+          "count": 8
+        },
+        {
+          "source": "ot",
+          "target": "末",
+          "count": 8
+        },
+        {
+          "source": "rak",
+          "target": "麻",
+          "count": 8
+        },
+        {
+          "source": "ram",
+          "target": "銜",
+          "count": 8
+        },
+        {
+          "source": "rat",
+          "target": "祭 (III)",
+          "count": 8
+        },
+        {
+          "source": "rawk",
+          "target": "覺",
+          "count": 8
+        },
+        {
+          "source": "ren",
+          "target": "山",
+          "count": 8
+        },
+        {
+          "source": "ron",
+          "target": "刪",
+          "count": 8
+        },
+        {
+          "source": "run",
+          "target": "諄 (III)",
+          "count": 8
+        },
+        {
+          "source": "uk",
+          "target": "屋",
+          "count": 8
+        },
+        {
+          "source": "ək",
+          "target": "之",
+          "count": 8
+        },
+        {
+          "source": "ən",
+          "target": "魂",
+          "count": 8
+        },
+        {
+          "source": "ap",
+          "target": "葉 (III)",
+          "count": 7
+        },
+        {
+          "source": "awk",
+          "target": "鐸",
+          "count": 7
+        },
+        {
+          "source": "ek",
+          "target": "齊",
+          "count": 7
+        },
+        {
+          "source": "ewk",
+          "target": "蕭",
+          "count": 7
+        },
+        {
+          "source": "in",
+          "target": "諄 (III)",
+          "count": 7
+        },
+        {
+          "source": "iw",
+          "target": "尤",
+          "count": 7
+        },
+        {
+          "source": "ok",
+          "target": "侯",
+          "count": 7
+        },
+        {
+          "source": "on",
+          "target": "元",
+          "count": 7
+        },
+        {
+          "source": "or",
+          "target": "元",
+          "count": 7
+        },
+        {
+          "source": "rew",
+          "target": "肴",
+          "count": 7
+        },
+        {
+          "source": "rik",
+          "target": "質 (III)",
+          "count": 7
+        },
+        {
+          "source": "rit",
+          "target": "質 (III)",
+          "count": 7
+        },
+        {
+          "source": "rom",
+          "target": "鹽 (III)",
+          "count": 7
+        },
+        {
+          "source": "rət",
+          "target": "脂 (III)",
+          "count": 7
+        },
+        {
+          "source": "A",
+          "target": "麻",
+          "count": 6
+        },
+        {
+          "source": "Ak",
+          "target": "昔",
+          "count": 6
+        },
+        {
+          "source": "at",
+          "target": "廢",
+          "count": 6
+        },
+        {
+          "source": "at",
+          "target": "末",
+          "count": 6
+        },
+        {
+          "source": "et",
+          "target": "齊",
+          "count": 6
+        },
+        {
+          "source": "it",
+          "target": "脂 (III)",
+          "count": 6
+        },
+        {
+          "source": "it",
+          "target": "脂 (IV)",
+          "count": 6
+        },
+        {
+          "source": "it",
+          "target": "齊",
+          "count": 6
+        },
+        {
+          "source": "iw",
+          "target": "幽",
+          "count": 6
+        },
+        {
+          "source": "iwk",
+          "target": "屋",
+          "count": 6
+        },
+        {
+          "source": "on",
+          "target": "仙 (III)",
+          "count": 6
+        },
+        {
+          "source": "ot",
+          "target": "泰",
+          "count": 6
+        },
+        {
+          "source": "rar",
+          "target": "仙 (III)",
+          "count": 6
+        },
+        {
+          "source": "rar",
+          "target": "刪",
+          "count": 6
+        },
+        {
+          "source": "reŋ",
+          "target": "庚",
+          "count": 6
+        },
+        {
+          "source": "rin",
+          "target": "真 (III)",
+          "count": 6
+        },
+        {
+          "source": "rit",
+          "target": "脂 (III)",
+          "count": 6
+        },
+        {
+          "source": "ro",
+          "target": "尤",
+          "count": 6
+        },
+        {
+          "source": "rot",
+          "target": "薛",
+          "count": 6
+        },
+        {
+          "source": "ruk",
+          "target": "覺",
+          "count": 6
+        },
+        {
+          "source": "rəj",
+          "target": "皆",
+          "count": 6
+        },
+        {
+          "source": "uj",
+          "target": "脂 (III)",
+          "count": 6
+        },
+        {
+          "source": "uŋ",
+          "target": "冬",
+          "count": 6
+        },
+        {
+          "source": "əj",
+          "target": "脂 (III)",
+          "count": 6
+        },
+        {
+          "source": "ər",
+          "target": "文",
+          "count": 6
+        },
+        {
+          "source": "a",
+          "target": "虞",
+          "count": 5
+        },
+        {
+          "source": "ap",
+          "target": "盍",
+          "count": 5
+        },
+        {
+          "source": "awk",
+          "target": "豪",
+          "count": 5
+        },
+        {
+          "source": "e",
+          "target": "支 (III)",
+          "count": 5
+        },
+        {
+          "source": "em",
+          "target": "鹽 (III)",
+          "count": 5
+        },
+        {
+          "source": "er",
+          "target": "齊",
+          "count": 5
+        },
+        {
+          "source": "ip",
+          "target": "緝 (III)",
+          "count": 5
+        },
+        {
+          "source": "om",
+          "target": "鹽 (III)",
+          "count": 5
+        },
+        {
+          "source": "or",
+          "target": "戈",
+          "count": 5
+        },
+        {
+          "source": "rap",
+          "target": "業",
+          "count": 5
+        },
+        {
+          "source": "rap",
+          "target": "狎",
+          "count": 5
+        },
+        {
+          "source": "rat",
+          "target": "夬",
+          "count": 5
+        },
+        {
+          "source": "rep",
+          "target": "葉 (III)",
+          "count": 5
+        },
+        {
+          "source": "rip",
+          "target": "緝 (III)",
+          "count": 5
+        },
+        {
+          "source": "rom",
+          "target": "凡",
+          "count": 5
+        },
+        {
+          "source": "rə",
+          "target": "脂 (III)",
+          "count": 5
+        },
+        {
+          "source": "rər",
+          "target": "脂 (III)",
+          "count": 5
+        },
+        {
+          "source": "ə",
+          "target": "侯",
+          "count": 5
+        },
+        {
+          "source": "əj",
+          "target": "灰",
+          "count": 5
+        },
+        {
+          "source": "ək",
+          "target": "灰",
+          "count": 5
+        },
+        {
+          "source": "əp",
+          "target": "咍",
+          "count": 5
+        },
+        {
+          "source": "ər",
+          "target": "先",
+          "count": 5
+        },
+        {
+          "source": "awk",
+          "target": "沃",
+          "count": 4
+        },
+        {
+          "source": "er",
+          "target": "支 (IV)",
+          "count": 4
+        },
+        {
+          "source": "ik",
+          "target": "屑",
+          "count": 4
+        },
+        {
+          "source": "ip",
+          "target": "緝 (IV)",
+          "count": 4
+        },
+        {
+          "source": "it",
+          "target": "術 (III)",
+          "count": 4
+        },
+        {
+          "source": "iŋ",
+          "target": "真 (III)",
+          "count": 4
+        },
+        {
+          "source": "ot",
+          "target": "月",
+          "count": 4
+        },
+        {
+          "source": "rak",
+          "target": "魚",
+          "count": 4
+        },
+        {
+          "source": "ram",
+          "target": "嚴",
+          "count": 4
+        },
+        {
+          "source": "ram",
+          "target": "鹽 (III)",
+          "count": 4
+        },
+        {
+          "source": "rat",
+          "target": "鎋",
+          "count": 4
+        },
+        {
+          "source": "rawk",
+          "target": "肴",
+          "count": 4
+        },
+        {
+          "source": "rek",
+          "target": "佳",
+          "count": 4
+        },
+        {
+          "source": "rem",
+          "target": "鹽 (III)",
+          "count": 4
+        },
+        {
+          "source": "ren",
+          "target": "刪",
+          "count": 4
+        },
+        {
+          "source": "ret",
+          "target": "皆",
+          "count": 4
+        },
+        {
+          "source": "ret",
+          "target": "黠",
+          "count": 4
+        },
+        {
+          "source": "rij",
+          "target": "皆",
+          "count": 4
+        },
+        {
+          "source": "rik",
+          "target": "職",
+          "count": 4
+        },
+        {
+          "source": "rit",
+          "target": "黠",
+          "count": 4
+        },
+        {
+          "source": "riw",
+          "target": "幽",
+          "count": 4
+        },
+        {
+          "source": "rop",
+          "target": "洽",
+          "count": 4
+        },
+        {
+          "source": "ruk",
+          "target": "尤",
+          "count": 4
+        },
+        {
+          "source": "rum",
+          "target": "侵 (III)",
+          "count": 4
+        },
+        {
+          "source": "rə",
+          "target": "皆",
+          "count": 4
+        },
+        {
+          "source": "rək",
+          "target": "麥",
+          "count": 4
+        },
+        {
+          "source": "rəm",
+          "target": "咸",
+          "count": 4
+        },
+        {
+          "source": "rən",
+          "target": "山",
+          "count": 4
+        },
+        {
+          "source": "rəp",
+          "target": "職",
+          "count": 4
+        },
+        {
+          "source": "rər",
+          "target": "山",
+          "count": 4
+        },
+        {
+          "source": "rəŋ",
+          "target": "耕",
+          "count": 4
+        },
+        {
+          "source": "up",
+          "target": "合",
+          "count": 4
+        },
+        {
+          "source": "ur",
+          "target": "灰",
+          "count": 4
+        },
+        {
+          "source": "uŋ",
+          "target": "東",
+          "count": 4
+        },
+        {
+          "source": "ən",
+          "target": "痕",
+          "count": 4
+        },
+        {
+          "source": "aw",
+          "target": "宵 (III)",
+          "count": 3
+        },
+        {
+          "source": "awk",
+          "target": "屋",
+          "count": 3
+        },
+        {
+          "source": "ej",
+          "target": "支 (III)",
+          "count": 3
+        },
+        {
+          "source": "ek",
+          "target": "支 (III)",
+          "count": 3
+        },
+        {
+          "source": "ek",
+          "target": "支 (IV)",
+          "count": 3
+        },
+        {
+          "source": "em",
+          "target": "鹽 (IV)",
+          "count": 3
+        },
+        {
+          "source": "er",
+          "target": "仙 (III)",
+          "count": 3
+        },
+        {
+          "source": "er",
+          "target": "仙 (IV)",
+          "count": 3
+        },
+        {
+          "source": "et",
+          "target": "薛 (IV)",
+          "count": 3
+        },
+        {
+          "source": "ik",
+          "target": "昔",
+          "count": 3
+        },
+        {
+          "source": "ik",
+          "target": "職",
+          "count": 3
+        },
+        {
+          "source": "ik",
+          "target": "質 (III)",
+          "count": 3
+        },
+        {
+          "source": "ik",
+          "target": "錫",
+          "count": 3
+        },
+        {
+          "source": "in",
+          "target": "諄 (IV)",
+          "count": 3
+        },
+        {
+          "source": "ip",
+          "target": "貼",
+          "count": 3
+        },
+        {
+          "source": "iŋ",
+          "target": "青",
+          "count": 3
+        },
+        {
+          "source": "oj",
+          "target": "支 (IV)",
+          "count": 3
+        },
+        {
+          "source": "om",
+          "target": "東",
+          "count": 3
+        },
+        {
+          "source": "op",
+          "target": "合",
+          "count": 3
+        },
+        {
+          "source": "ot",
+          "target": "廢",
+          "count": 3
+        },
+        {
+          "source": "ot",
+          "target": "祭 (III)",
+          "count": 3
+        },
+        {
+          "source": "ot",
+          "target": "薛",
+          "count": 3
+        },
+        {
+          "source": "raj",
+          "target": "佳",
+          "count": 3
+        },
+        {
+          "source": "rak",
+          "target": "藥",
+          "count": 3
+        },
+        {
+          "source": "rar",
+          "target": "佳",
+          "count": 3
+        },
+        {
+          "source": "rar",
+          "target": "山",
+          "count": 3
+        },
+        {
+          "source": "rar",
+          "target": "支 (III)",
+          "count": 3
+        },
+        {
+          "source": "rawk",
+          "target": "藥",
+          "count": 3
+        },
+        {
+          "source": "rep",
+          "target": "洽",
+          "count": 3
+        },
+        {
+          "source": "rep",
+          "target": "狎",
+          "count": 3
+        },
+        {
+          "source": "rewk",
+          "target": "肴",
+          "count": 3
+        },
+        {
+          "source": "rewk",
+          "target": "覺",
+          "count": 3
+        },
+        {
+          "source": "riw",
+          "target": "尤",
+          "count": 3
+        },
+        {
+          "source": "riw",
+          "target": "肴",
+          "count": 3
+        },
+        {
+          "source": "rok",
+          "target": "侯",
+          "count": 3
+        },
+        {
+          "source": "rok",
+          "target": "尤",
+          "count": 3
+        },
+        {
+          "source": "rok",
+          "target": "虞",
+          "count": 3
+        },
+        {
+          "source": "rom",
+          "target": "咸",
+          "count": 3
+        },
+        {
+          "source": "ror",
+          "target": "仙 (III)",
+          "count": 3
+        },
+        {
+          "source": "ru",
+          "target": "侯",
+          "count": 3
+        },
+        {
+          "source": "ruk",
+          "target": "肴",
+          "count": 3
+        },
+        {
+          "source": "rut",
+          "target": "脂 (III)",
+          "count": 3
+        },
+        {
+          "source": "rut",
+          "target": "黠",
+          "count": 3
+        },
+        {
+          "source": "ruŋ",
+          "target": "江",
+          "count": 3
+        },
+        {
+          "source": "rəm",
+          "target": "東",
+          "count": 3
+        },
+        {
+          "source": "rər",
+          "target": "佳",
+          "count": 3
+        },
+        {
+          "source": "uk",
+          "target": "尤",
+          "count": 3
+        },
+        {
+          "source": "um",
+          "target": "侵 (III)",
+          "count": 3
+        },
+        {
+          "source": "um",
+          "target": "覃",
+          "count": 3
+        },
+        {
+          "source": "up",
+          "target": "灰",
+          "count": 3
+        },
+        {
+          "source": "up",
+          "target": "緝 (III)",
+          "count": 3
+        },
+        {
+          "source": "ək",
+          "target": "尤",
+          "count": 3
+        },
+        {
+          "source": "ən",
+          "target": "文",
+          "count": 3
+        },
+        {
+          "source": "ət",
+          "target": "咍",
+          "count": 3
+        },
+        {
+          "source": "əŋ",
+          "target": "東",
+          "count": 3
+        },
+        {
+          "source": "Ak",
+          "target": "麻",
+          "count": 2
+        },
+        {
+          "source": "ap",
+          "target": "乏",
+          "count": 2
+        },
+        {
+          "source": "ej",
+          "target": "支 (IV)",
+          "count": 2
+        },
+        {
+          "source": "er",
+          "target": "支 (III)",
+          "count": 2
+        },
+        {
+          "source": "et",
+          "target": "祭 (III)",
+          "count": 2
+        },
+        {
+          "source": "ewk",
+          "target": "宵 (IV)",
+          "count": 2
+        },
+        {
+          "source": "ewk",
+          "target": "藥",
+          "count": 2
+        },
+        {
+          "source": "eŋ",
+          "target": "庚",
+          "count": 2
+        },
+        {
+          "source": "ip",
+          "target": "脂 (III)",
+          "count": 2
+        },
+        {
+          "source": "it",
+          "target": "術 (IV)",
+          "count": 2
+        },
+        {
+          "source": "iŋ",
+          "target": "清",
+          "count": 2
+        },
+        {
+          "source": "iŋ",
+          "target": "真 (IV)",
+          "count": 2
+        },
+        {
+          "source": "iŋ",
+          "target": "蒸",
+          "count": 2
+        },
+        {
+          "source": "on",
+          "target": "寒",
+          "count": 2
+        },
+        {
+          "source": "op",
+          "target": "祭 (III)",
+          "count": 2
+        },
+        {
+          "source": "ra",
+          "target": "模",
+          "count": 2
+        },
+        {
+          "source": "rak",
+          "target": "虞",
+          "count": 2
+        },
+        {
+          "source": "rak",
+          "target": "覺",
+          "count": 2
+        },
+        {
+          "source": "rak",
+          "target": "麥",
+          "count": 2
+        },
+        {
+          "source": "re",
+          "target": "麻",
+          "count": 2
+        },
+        {
+          "source": "rej",
+          "target": "佳",
+          "count": 2
+        },
+        {
+          "source": "rep",
+          "target": "皆",
+          "count": 2
+        },
+        {
+          "source": "ret",
+          "target": "夬",
+          "count": 2
+        },
+        {
+          "source": "rewk",
+          "target": "藥",
+          "count": 2
+        },
+        {
+          "source": "rik",
+          "target": "佳",
+          "count": 2
+        },
+        {
+          "source": "rik",
+          "target": "脂 (III)",
+          "count": 2
+        },
+        {
+          "source": "rin",
+          "target": "臻 (III)",
+          "count": 2
+        },
+        {
+          "source": "riwk",
+          "target": "屋",
+          "count": 2
+        },
+        {
+          "source": "roj",
+          "target": "麻",
+          "count": 2
+        },
+        {
+          "source": "rop",
+          "target": "祭 (III)",
+          "count": 2
+        },
+        {
+          "source": "ror",
+          "target": "支 (III)",
+          "count": 2
+        },
+        {
+          "source": "ror",
+          "target": "麻",
+          "count": 2
+        },
+        {
+          "source": "rot",
+          "target": "皆",
+          "count": 2
+        },
+        {
+          "source": "rot",
+          "target": "祭 (III)",
+          "count": 2
+        },
+        {
+          "source": "rot",
+          "target": "鎋",
+          "count": 2
+        },
+        {
+          "source": "rot",
+          "target": "黠",
+          "count": 2
+        },
+        {
+          "source": "rut",
+          "target": "術 (III)",
+          "count": 2
+        },
+        {
+          "source": "rən",
+          "target": "刪",
+          "count": 2
+        },
+        {
+          "source": "rəp",
+          "target": "洽",
+          "count": 2
+        },
+        {
+          "source": "rəp",
+          "target": "脂 (III)",
+          "count": 2
+        },
+        {
+          "source": "rər",
+          "target": "支 (III)",
+          "count": 2
+        },
+        {
+          "source": "rət",
+          "target": "皆",
+          "count": 2
+        },
+        {
+          "source": "rət",
+          "target": "黠",
+          "count": 2
+        },
+        {
+          "source": "u",
+          "target": "侯",
+          "count": 2
+        },
+        {
+          "source": "un",
+          "target": "真 (III)",
+          "count": 2
+        },
+        {
+          "source": "ə",
+          "target": "皆",
+          "count": 2
+        },
+        {
+          "source": "əp",
+          "target": "脂 (III)",
+          "count": 2
+        },
+        {
+          "source": "əp",
+          "target": "齊",
+          "count": 2
+        },
+        {
+          "source": "ər",
+          "target": "咍",
+          "count": 2
+        },
+        {
+          "source": "ər",
+          "target": "支 (IV)",
+          "count": 2
+        },
+        {
+          "source": "ər",
+          "target": "魂",
+          "count": 2
+        },
+        {
+          "source": "ət",
+          "target": "沒",
+          "count": 2
+        },
+        {
+          "source": "Aj",
+          "target": "麻",
+          "count": 1
+        },
+        {
+          "source": "a",
+          "target": "歌",
+          "count": 1
+        },
+        {
+          "source": "aj",
+          "target": "泰",
+          "count": 1
+        },
+        {
+          "source": "an",
+          "target": "先",
+          "count": 1
+        },
+        {
+          "source": "an",
+          "target": "山",
+          "count": 1
+        },
+        {
+          "source": "ap",
+          "target": "廢",
+          "count": 1
+        },
+        {
+          "source": "ap",
+          "target": "泰",
+          "count": 1
+        },
+        {
+          "source": "ap",
+          "target": "祭 (III)",
+          "count": 1
+        },
+        {
+          "source": "ar",
+          "target": "支 (III)",
+          "count": 1
+        },
+        {
+          "source": "at",
+          "target": "夬",
+          "count": 1
+        },
+        {
+          "source": "at",
+          "target": "鎋",
+          "count": 1
+        },
+        {
+          "source": "ek",
+          "target": "屑",
+          "count": 1
+        },
+        {
+          "source": "en",
+          "target": "山",
+          "count": 1
+        },
+        {
+          "source": "ep",
+          "target": "葉 (IV)",
+          "count": 1
+        },
+        {
+          "source": "ep",
+          "target": "齊",
+          "count": 1
+        },
+        {
+          "source": "et",
+          "target": "薛 (III)",
+          "count": 1
+        },
+        {
+          "source": "ewk",
+          "target": "宵 (III)",
+          "count": 1
+        },
+        {
+          "source": "eŋ",
+          "target": "仙 (IV)",
+          "count": 1
+        },
+        {
+          "source": "ik",
+          "target": "支 (IV)",
+          "count": 1
+        },
+        {
+          "source": "ik",
+          "target": "脂 (IV)",
+          "count": 1
+        },
+        {
+          "source": "ik",
+          "target": "齊",
+          "count": 1
+        },
+        {
+          "source": "im",
+          "target": "侵 (IV)",
+          "count": 1
+        },
+        {
+          "source": "ir",
+          "target": "真 (IV)",
+          "count": 1
+        },
+        {
+          "source": "ir",
+          "target": "脂 (IV)",
+          "count": 1
+        },
+        {
+          "source": "iw",
+          "target": "肴",
+          "count": 1
+        },
+        {
+          "source": "iwk",
+          "target": "尤",
+          "count": 1
+        },
+        {
+          "source": "iwk",
+          "target": "蕭",
+          "count": 1
+        },
+        {
+          "source": "iŋ",
+          "target": "諄 (III)",
+          "count": 1
+        },
+        {
+          "source": "oj",
+          "target": "麻",
+          "count": 1
+        },
+        {
+          "source": "ok",
+          "target": "尤",
+          "count": 1
+        },
+        {
+          "source": "ok",
+          "target": "覺",
+          "count": 1
+        },
+        {
+          "source": "om",
+          "target": "談",
+          "count": 1
+        },
+        {
+          "source": "on",
+          "target": "刪",
+          "count": 1
+        },
+        {
+          "source": "or",
+          "target": "仙 (III)",
+          "count": 1
+        },
+        {
+          "source": "or",
+          "target": "寒",
+          "count": 1
+        },
+        {
+          "source": "or",
+          "target": "廢",
+          "count": 1
+        },
+        {
+          "source": "or",
+          "target": "支 (III)",
+          "count": 1
+        },
+        {
+          "source": "ot",
+          "target": "曷",
+          "count": 1
+        },
+        {
+          "source": "oŋ",
+          "target": "冬",
+          "count": 1
+        },
+        {
+          "source": "rAk",
+          "target": "錫",
+          "count": 1
+        },
+        {
+          "source": "ram",
+          "target": "咸",
+          "count": 1
+        },
+        {
+          "source": "rap",
+          "target": "洽",
+          "count": 1
+        },
+        {
+          "source": "rap",
+          "target": "魚",
+          "count": 1
+        },
+        {
+          "source": "rar",
+          "target": "元",
+          "count": 1
+        },
+        {
+          "source": "rat",
+          "target": "皆",
+          "count": 1
+        },
+        {
+          "source": "rat",
+          "target": "黠",
+          "count": 1
+        },
+        {
+          "source": "rek",
+          "target": "昔",
+          "count": 1
+        },
+        {
+          "source": "rek",
+          "target": "陌",
+          "count": 1
+        },
+        {
+          "source": "rem",
+          "target": "咸",
+          "count": 1
+        },
+        {
+          "source": "rep",
+          "target": "業",
+          "count": 1
+        },
+        {
+          "source": "rep",
+          "target": "祭 (III)",
+          "count": 1
+        },
+        {
+          "source": "ret",
+          "target": "祭 (III)",
+          "count": 1
+        },
+        {
+          "source": "rew",
+          "target": "宵 (III)",
+          "count": 1
+        },
+        {
+          "source": "rik",
+          "target": "櫛 (III)",
+          "count": 1
+        },
+        {
+          "source": "rik",
+          "target": "黠",
+          "count": 1
+        },
+        {
+          "source": "rim",
+          "target": "侵 (III)",
+          "count": 1
+        },
+        {
+          "source": "rip",
+          "target": "脂 (III)",
+          "count": 1
+        },
+        {
+          "source": "rip",
+          "target": "貼",
+          "count": 1
+        },
+        {
+          "source": "rit",
+          "target": "皆",
+          "count": 1
+        },
+        {
+          "source": "riŋ",
+          "target": "真 (III)",
+          "count": 1
+        },
+        {
+          "source": "riŋ",
+          "target": "耕",
+          "count": 1
+        },
+        {
+          "source": "rom",
+          "target": "鐘",
+          "count": 1
+        },
+        {
+          "source": "rop",
+          "target": "乏",
+          "count": 1
+        },
+        {
+          "source": "rop",
+          "target": "夬",
+          "count": 1
+        },
+        {
+          "source": "rop",
+          "target": "業",
+          "count": 1
+        },
+        {
+          "source": "rop",
+          "target": "葉 (III)",
+          "count": 1
+        },
+        {
+          "source": "rot",
+          "target": "夬",
+          "count": 1
+        },
+        {
+          "source": "roŋ",
+          "target": "東",
+          "count": 1
+        },
+        {
+          "source": "ru",
+          "target": "脂 (III)",
+          "count": 1
+        },
+        {
+          "source": "ruj",
+          "target": "灰",
+          "count": 1
+        },
+        {
+          "source": "rum",
+          "target": "東",
+          "count": 1
+        },
+        {
+          "source": "rum",
+          "target": "覃",
+          "count": 1
+        },
+        {
+          "source": "rup",
+          "target": "緝 (III)",
+          "count": 1
+        },
+        {
+          "source": "rup",
+          "target": "脂 (III)",
+          "count": 1
+        },
+        {
+          "source": "rut",
+          "target": "皆",
+          "count": 1
+        },
+        {
+          "source": "rək",
+          "target": "脂 (III)",
+          "count": 1
+        },
+        {
+          "source": "rəp",
+          "target": "屋",
+          "count": 1
+        },
+        {
+          "source": "um",
+          "target": "冬",
+          "count": 1
+        },
+        {
+          "source": "um",
+          "target": "東",
+          "count": 1
+        },
+        {
+          "source": "un",
+          "target": "山",
+          "count": 1
+        },
+        {
+          "source": "up",
+          "target": "脂 (III)",
+          "count": 1
+        },
+        {
+          "source": "ur",
+          "target": "脂 (III)",
+          "count": 1
+        },
+        {
+          "source": "ə",
+          "target": "登",
+          "count": 1
+        },
+        {
+          "source": "əp",
+          "target": "葉 (III)",
+          "count": 1
+        },
+        {
+          "source": "ər",
+          "target": "灰",
+          "count": 1
+        },
+        {
+          "source": "ər",
+          "target": "痕",
+          "count": 1
+        },
+        {
+          "source": "ət",
+          "target": "屑",
+          "count": 1
+        },
+        {
+          "source": "ət",
+          "target": "灰",
+          "count": 1
+        },
+        {
+          "source": "əŋ",
+          "target": "之",
+          "count": 1
+        },
+        {
+          "source": "əŋ",
+          "target": "咍",
+          "count": 1
+        }
+      ],
+      "source_totals": [
+        {
+          "source": "aŋ",
+          "count": 154
+        },
+        {
+          "source": "ra",
+          "count": 122
+        },
+        {
+          "source": "a",
+          "count": 117
+        },
+        {
+          "source": "ə",
+          "count": 111
+        },
+        {
+          "source": "ar",
+          "count": 108
+        },
+        {
+          "source": "ək",
+          "count": 84
+        },
+        {
+          "source": "at",
+          "count": 80
+        },
+        {
+          "source": "eŋ",
+          "count": 80
+        },
+        {
+          "source": "ut",
+          "count": 80
+        },
+        {
+          "source": "ij",
+          "count": 78
+        },
+        {
+          "source": "an",
+          "count": 73
+        },
+        {
+          "source": "ro",
+          "count": 72
+        },
+        {
+          "source": "ak",
+          "count": 66
+        },
+        {
+          "source": "raŋ",
+          "count": 65
+        },
+        {
+          "source": "in",
+          "count": 64
+        },
+        {
+          "source": "it",
+          "count": 64
+        },
+        {
+          "source": "əŋ",
+          "count": 62
+        },
+        {
+          "source": "u",
+          "count": 60
+        },
+        {
+          "source": "un",
+          "count": 57
+        },
+        {
+          "source": "oŋ",
+          "count": 56
+        },
+        {
+          "source": "ek",
+          "count": 54
+        },
+        {
+          "source": "rak",
+          "count": 53
+        },
+        {
+          "source": "əm",
+          "count": 53
+        },
+        {
+          "source": "en",
+          "count": 52
+        },
+        {
+          "source": "ru",
+          "count": 52
+        },
+        {
+          "source": "roŋ",
+          "count": 48
+        },
+        {
+          "source": "raj",
+          "count": 46
+        },
+        {
+          "source": "aj",
+          "count": 45
+        },
+        {
+          "source": "əj",
+          "count": 43
+        },
+        {
+          "source": "ok",
+          "count": 42
+        },
+        {
+          "source": "ran",
+          "count": 42
+        },
+        {
+          "source": "ər",
+          "count": 42
+        },
+        {
+          "source": "on",
+          "count": 41
+        },
+        {
+          "source": "rək",
+          "count": 41
+        },
+        {
+          "source": "e",
+          "count": 40
+        },
+        {
+          "source": "ur",
+          "count": 40
+        },
+        {
+          "source": "ən",
+          "count": 39
+        },
+        {
+          "source": "et",
+          "count": 38
+        },
+        {
+          "source": "rə",
+          "count": 38
+        },
+        {
+          "source": "oj",
+          "count": 37
+        },
+        {
+          "source": "aw",
+          "count": 36
+        },
+        {
+          "source": "re",
+          "count": 33
+        },
+        {
+          "source": "rəm",
+          "count": 33
+        },
+        {
+          "source": "ew",
+          "count": 32
+        },
+        {
+          "source": "rər",
+          "count": 32
+        },
+        {
+          "source": "o",
+          "count": 31
+        },
+        {
+          "source": "ruk",
+          "count": 31
+        },
+        {
+          "source": "uk",
+          "count": 31
+        },
+        {
+          "source": "əp",
+          "count": 31
+        },
+        {
+          "source": "er",
+          "count": 30
+        },
+        {
+          "source": "or",
+          "count": 30
+        },
+        {
+          "source": "rat",
+          "count": 30
+        },
+        {
+          "source": "rok",
+          "count": 30
+        },
+        {
+          "source": "am",
+          "count": 29
+        },
+        {
+          "source": "uj",
+          "count": 29
+        },
+        {
+          "source": "ot",
+          "count": 28
+        },
+        {
+          "source": "reŋ",
+          "count": 28
+        },
+        {
+          "source": "raw",
+          "count": 27
+        },
+        {
+          "source": "iw",
+          "count": 26
+        },
+        {
+          "source": "rik",
+          "count": 26
+        },
+        {
+          "source": "om",
+          "count": 24
+        },
+        {
+          "source": "ret",
+          "count": 24
+        },
+        {
+          "source": "ron",
+          "count": 24
+        },
+        {
+          "source": "iŋ",
+          "count": 23
+        },
+        {
+          "source": "ruj",
+          "count": 23
+        },
+        {
+          "source": "rar",
+          "count": 22
+        },
+        {
+          "source": "ewk",
+          "count": 21
+        },
+        {
+          "source": "im",
+          "count": 21
+        },
+        {
+          "source": "ren",
+          "count": 21
+        },
+        {
+          "source": "rəj",
+          "count": 21
+        },
+        {
+          "source": "rən",
+          "count": 20
+        },
+        {
+          "source": "awk",
+          "count": 19
+        },
+        {
+          "source": "ik",
+          "count": 19
+        },
+        {
+          "source": "rek",
+          "count": 19
+        },
+        {
+          "source": "rəp",
+          "count": 19
+        },
+        {
+          "source": "em",
+          "count": 18
+        },
+        {
+          "source": "iwk",
+          "count": 18
+        },
+        {
+          "source": "rit",
+          "count": 18
+        },
+        {
+          "source": "ap",
+          "count": 17
+        },
+        {
+          "source": "ram",
+          "count": 17
+        },
+        {
+          "source": "rij",
+          "count": 17
+        },
+        {
+          "source": "ruŋ",
+          "count": 17
+        },
+        {
+          "source": "rom",
+          "count": 16
+        },
+        {
+          "source": "rəŋ",
+          "count": 16
+        },
+        {
+          "source": "rawk",
+          "count": 15
+        },
+        {
+          "source": "rep",
+          "count": 15
+        },
+        {
+          "source": "rot",
+          "count": 15
+        },
+        {
+          "source": "ip",
+          "count": 14
+        },
+        {
+          "source": "ep",
+          "count": 13
+        },
+        {
+          "source": "op",
+          "count": 13
+        },
+        {
+          "source": "rap",
+          "count": 12
+        },
+        {
+          "source": "roj",
+          "count": 11
+        },
+        {
+          "source": "rət",
+          "count": 11
+        },
+        {
+          "source": "up",
+          "count": 11
+        },
+        {
+          "source": "riw",
+          "count": 10
+        },
+        {
+          "source": "rop",
+          "count": 10
+        },
+        {
+          "source": "uŋ",
+          "count": 10
+        },
+        {
+          "source": "rut",
+          "count": 9
+        },
+        {
+          "source": "Ak",
+          "count": 8
+        },
+        {
+          "source": "rew",
+          "count": 8
+        },
+        {
+          "source": "rewk",
+          "count": 8
+        },
+        {
+          "source": "rin",
+          "count": 8
+        },
+        {
+          "source": "run",
+          "count": 8
+        },
+        {
+          "source": "um",
+          "count": 8
+        },
+        {
+          "source": "rip",
+          "count": 7
+        },
+        {
+          "source": "ror",
+          "count": 7
+        },
+        {
+          "source": "ət",
+          "count": 7
+        },
+        {
+          "source": "A",
+          "count": 6
+        },
+        {
+          "source": "rum",
+          "count": 6
+        },
+        {
+          "source": "ej",
+          "count": 5
+        },
+        {
+          "source": "rem",
+          "count": 5
+        },
+        {
+          "source": "ir",
+          "count": 2
+        },
+        {
+          "source": "rej",
+          "count": 2
+        },
+        {
+          "source": "riwk",
+          "count": 2
+        },
+        {
+          "source": "riŋ",
+          "count": 2
+        },
+        {
+          "source": "rup",
+          "count": 2
+        },
+        {
+          "source": "Aj",
+          "count": 1
+        },
+        {
+          "source": "rAk",
+          "count": 1
+        },
+        {
+          "source": "rim",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}
